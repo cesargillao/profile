@@ -1,0 +1,92 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'SF Mono';
+  src: url('./fonts/SFMono/SFMono-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Calibre';
+  src: url('./fonts//Calibre/Calibre-Regular.ttf');
+}
+
+@layer components {
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Calibre', 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    @apply bg-navy;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    line-height: 1.1;
+  }
+
+  section > .title {
+    margin: 10px 0 40px;
+    font-size: clamp(26px, 5vw, 32px);
+    @apply text-lightest-slate font-bold;
+  }
+
+  .projects {
+    max-width: 1000px;
+    margin: 0px auto;
+  }
+  .project {
+    position: relative;
+    display: grid;
+    align-items: center;
+    grid-template-columns: repeat(12, 1fr);
+    gap: 10px;
+    margin-bottom: 100px;
+  }
+  .project:nth-of-type(2n+1) {
+    direction: rtl;
+  }
+  .project:nth-of-type(2n+1) .project-content {
+    text-align: left;
+  }
+  .project-image {
+    grid-column: 1 / 8;
+    grid-area: 1 / 1 / -1 / 8;
+  }
+  .project-content {
+    grid-column: 8 / -1;
+    grid-area: 1 / 7 / -1 / -1;
+    text-align: right;
+    @apply text-slate;
+  }
+  .project-overline {
+    margin: 10px 0;
+    font-size: 13px;
+    @apply text-green font-sf-mono;
+  }
+  .project-title {
+    margin: 0 0 20px;
+    font-size: clamp(24px, 5vw, 28px);
+    font-weight: bold;
+    @apply text-lightest-slate;
+  }
+  .project-description {
+    font-size: 16px;
+    box-shadow: 0 10px 30px -15px rgba(2, 12, 27, 0.7);
+    @apply bg-light-navy p-6 rounded text-light-slate ;
+  }
+  .project-tech-list {
+    margin: 25px 0px 10px;
+    font-size: 13px;
+    @apply flex flex-wrap z-[1] justify-end font-sf-mono;
+  }
+  .project-tech-list > li {
+    margin: 0px 0px 5px 20px;
+  }
+  .project:nth-of-type(2n+1) .project-tech-list > li {
+    margin: 0px 20px 5px 0px;
+  }
+}
+
