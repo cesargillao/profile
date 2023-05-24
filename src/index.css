@@ -172,5 +172,18 @@
   .project:nth-of-type(2n+1) .project-tech-list > li {
     margin: 0px 20px 5px 0px;
   }
+
+  .contact-button {
+    transition: all 250ms;
+    @apply
+      mt-10
+      px-7
+      py-5
+      border
+      border-blue
+      rounded-md
+      text-blue
+      hover:bg-blue/20;
+  }
 }
 
