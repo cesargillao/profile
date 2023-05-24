@@ -50,6 +50,7 @@
   .projects {
     max-width: 1000px;
     margin: 0px auto;
+    padding-top: 1rem;
   }
   .project {
     position: relative;

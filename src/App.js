@@ -1,20 +1,11 @@
-import { Contact, Header, ProjectItem } from './components';
+import { Contact, Work, Header } from './components';
 
 const App = () => {
   return (
     <div className="isolate min-h-screen">
       <Header />
       <main className="mt-14">
-        <section className="projects">
-          <h2 id="work" className="title">Some Things I've Built</h2>
-          <ul>
-            <ProjectItem />
-            <ProjectItem />
-            <ProjectItem />
-            <ProjectItem />
-            <ProjectItem />
-          </ul>
-        </section>
+        <Work />
         <Contact />
       </main>
     </div>
