@@ -5,14 +5,17 @@ module.exports = {
   ],
   theme: {
     extend: {
+      screens: {
+        'xs': '480px',
+      },
       fontFamily: {
         'sf-mono': ['SF Mono', 'mono'],
         'calibre': ['Calibre', 'sans-serif'],
       },
       colors: {
         'dark-navy': '#020c1b',
-        'navy': '#0a192f',
-        'light-navy': '#112240',
+        'navy': '#171719',
+        'light-navy': '#232229',
         'lightest-navy': '#233554',
         'navy-shadow': 'rgba(2, 12, 27, 0.7)',
         'dark-slate': '#495670',
@@ -23,7 +26,7 @@ module.exports = {
         'green': '#64ffda',
         'green-tint': 'rgba(100, 255, 218, 0.1)',
         'pink': '#f57dff',
-        'blue': '#57cbff',
+        'blue': '#13d3fb',
       }
     },
   },
