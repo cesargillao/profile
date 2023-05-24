@@ -6,7 +6,7 @@ const App = () => {
       <Header />
       <main className="mt-14">
         <section className="projects">
-          <h2 className="title">Some Things I've Built</h2>
+          <h2 id="work" className="title">Some Things I've Built</h2>
           <ul>
             <ProjectItem />
             <ProjectItem />
