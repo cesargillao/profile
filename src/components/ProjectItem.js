@@ -1,21 +1,28 @@
-const ProjectItem = () => {
+const ProjectItem = ({ image, title, overline, description, technologies, links }) => {
   return (
     <li className="project">
       <div className="project-image">
-        <img src="http://placeimg.com/640/480/food" alt="" />
+        <img src={ image } alt="Project" />
       </div>
       <div className="project-content">
-        <p className="project-overline">Featured Project</p>
-        <h3 className="project-title">Halcyon Theme</h3>
+        <p className="project-overline">{ overline }</p>
+        <h3 className="project-title">{ title }</h3>
         <div className="project-description">
-          <p>Veniam excepteur Lorem consectetur ipsum dolore ullamco. Sunt eu aliquip ullamco minim exercitation tempor eiusmod laborum magna nostrud eiusmod nulla.</p>
+          <p>{ description }</p>
         </div>
         <ul className="project-tech-list">
-          <li>VS Code</li>
-          <li>Sublime</li>
-          <li>Atom</li>
-          <li>ITerm2</li>
-          <li>Hyper</li>
+          {technologies.map((tech, index) => (
+            <li key={`tech-${index}`}>{ tech }</li>
+          ))}
+        </ul>
+        <ul className="project-link-list">
+          {links.map((link, index) => (
+            <li key={`link-${index}`}>
+              <a href={link.url}>
+                { link.icon }
+              </a>
+            </li>
+          ))}
         </ul>
       </div>
     </li>

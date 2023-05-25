@@ -154,22 +154,31 @@
       sm:rounded
       text-gray-300;
   }
+  .project-link-list,
   .project-tech-list {
     margin: 25px 10px 10px;
     font-size: 13px;
     @apply
       flex
-      flex-wrap z-[1]
+      flex-wrap
+      z-[1]
       justify-end
       font-sf-mono
       text-blue
+      sm:mx-0
       sm:mt-[25px]
-      sm:my-0
       sm:mb-[10px];
   }
+  .project:nth-of-type(2n+1) .project-link-list,
+  .project:nth-of-type(2n+1) .project-tech-list {
+    flex-direction: row-reverse;
+    justify-content: flex-start;
+  }
+  .project-link-list > li,
   .project-tech-list > li {
     margin: 0px 0px 5px 20px;
   }
+  .project:nth-of-type(2n+1) .project-link-list > li,
   .project:nth-of-type(2n+1) .project-tech-list > li {
     margin: 0px 20px 5px 0px;
   }
