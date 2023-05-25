@@ -2,7 +2,7 @@ export const data = {
   "work": [
     {
       "title": "Raila: Language Assistant",
-      "overline": "Personal Project",
+      "overline": "Side Project",
       "description": "Consequat quis adipisicing qui fugiat minim officia laboris. Amet nisi nostrud pariatur do deserunt consectetur eiusmod occaecat.",
       "image": "http://placeimg.com/640/480/food",
       "technologies": [
@@ -18,7 +18,7 @@ export const data = {
     },
     {
       "title": "Mr. Parking",
-      "overline": "Personal Project",
+      "overline": "Side Project",
       "description": "Consequat quis adipisicing qui fugiat minim officia laboris. Amet nisi nostrud pariatur do deserunt consectetur eiusmod occaecat.",
       "image": "http://placeimg.com/640/480/food",
       "technologies": [
@@ -36,7 +36,7 @@ export const data = {
     },
     {
       "title": "CreditBook",
-      "overline": "Personal Project",
+      "overline": "Side Project",
       "description": "Consequat quis adipisicing qui fugiat minim officia laboris. Amet nisi nostrud pariatur do deserunt consectetur eiusmod occaecat.",
       "image": "http://placeimg.com/640/480/food",
       "technologies": [
@@ -96,7 +96,8 @@ export const data = {
         "NestJS",
         "Firebase",
         "Socket.io",
-        "Redux"
+        "Redux",
+        "SCSS"
       ],
       "links": [
         {
@@ -116,7 +117,8 @@ export const data = {
         "Laravel",
         "Firebase",
         "Socket.io",
-        "Redux"
+        "Redux",
+        "SCSS"
       ],
       "links": [
         {
@@ -199,6 +201,7 @@ export const data = {
         "Firebase",
         "Socket.io",
         "Redux",
+        "SCSS"
       ],
       "links": [
         {
