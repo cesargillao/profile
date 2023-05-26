@@ -29,8 +29,8 @@ const Header = () => {
   }
 
   return (
-    <div className="w-full fixed">
-      <nav className="bg-white/10 h-16 w-full absolute -z-10" />
+    <div className="w-full fixed z-20">
+      <nav className="bg-white/10 h-16 w-full absolute -z-10 backdrop backdrop-blur-sm" />
       <nav className="h-16 lg:px-8 top-0 flex items-center justify-between" aria-label="Global">
         <div className="flex lg:flex-1 pl-4">
           <a href="/" className="-m-1.5 p-1.5">
