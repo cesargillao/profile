@@ -38,6 +38,26 @@
     line-height: 1.1;
   }
 
+  #link-group {
+    flex-direction: column;
+    position: absolute;
+    width: 100%;
+    padding: 1.5rem;
+    @apply
+    top-16
+    lg:top-0
+    lg:flex
+    lg:flex-row
+    lg:relative
+    lg:py-0
+    lg:w-[unset]
+    bg-white/10
+    lg:bg-[unset]
+    gap-y-6
+    lg:gap-y-0
+    lg:gap-x-12;
+  }
+
   .link {
     @apply text-sm font-mono leading-6 text-white;
   }
