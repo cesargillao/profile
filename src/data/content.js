@@ -1,3 +1,5 @@
+
+
 export const data = {
   "work": [
     {
@@ -11,8 +13,9 @@ export const data = {
       ],
       "links": [
         {
-          "icon": "play-store.jpg",
-          "link": ""
+          "title": "Raila | Google Play",
+          "icon": "google-play",
+          "url": ""
         }
       ],
     },
@@ -29,8 +32,10 @@ export const data = {
       ],
       "links": [
         {
-          "icon": "play-store.jpg",
-          "link": ""
+          "title": "Mr. Parking | APK",
+          "icon": "android",
+          // TODO: Dejar APK
+          "url": ""
         }
       ],
     },
@@ -45,8 +50,10 @@ export const data = {
       ],
       "links": [
         {
-          "icon": "Dejar APK",
-          "link": ""
+          "title": "CreditBook | Google Play",
+          "icon": "google-play",
+          // TODO: Establecer enlace real
+          "url": "https://play.google.com/store/apps/developer?id=Prusked"
         }
       ],
     },
@@ -60,12 +67,7 @@ export const data = {
         "PHP",
         "SQL"
       ],
-      "links": [
-        {
-          "icon": "play-store.jpg",
-          "url": ""
-        }
-      ],
+      "links": [],
     },
     {
       "title": "Prevenauto",
@@ -79,8 +81,9 @@ export const data = {
       ],
       "links": [
         {
-          "icon": "play-store.jpg",
-          "link": ""
+          "title": "Prevenauto | Google Play",
+          "icon": "google-play",
+          "url": "https://play.google.com/store/apps/details?id=com.limonbyte.flota"
         }
       ],
     },
@@ -101,8 +104,9 @@ export const data = {
       ],
       "links": [
         {
-          "icon": "play-store.jpg",
-          "link": ""
+          "title": "Below | Google Play",
+          "icon": "google-play",
+          "url": "https://play.google.com/store/apps/details?id=com.limonbyte.below"
         }
       ],
     },
@@ -122,8 +126,9 @@ export const data = {
       ],
       "links": [
         {
-          "icon": "play-store.jpg",
-          "link": ""
+          "title": "Tecno | Google Play",
+          "icon": "google-play",
+          "url": "https://play.google.com/store/apps/details?id=com.limonbyte.gestionsabasic"
         }
       ],
     },
@@ -142,8 +147,9 @@ export const data = {
       ],
       "links": [
         {
-          "icon": "play-store.jpg",
-          "link": ""
+          "title": "SerVIP | Google Play",
+          "icon": "google-play",
+          "url": "https://play.google.com/store/apps/details?id=com.servip.app"
         }
       ],
     },
@@ -163,13 +169,24 @@ export const data = {
       ],
       "links": [
         {
-          "icon": "play-store.jpg",
-          "link": ""
+          "title": "Taxealo Pasajero | Google Play",
+          "icon": "google-play",
+          "url": "https://play.google.com/store/apps/details?id=com.limonbyte.taxea"
+        },
+        {
+          "title": "Taxealo Conductor | Google Play",
+          "icon": "google-play",
+          "url": "https://play.google.com/store/apps/details?id=com.limonbyte.taxeaconductor"
+        },
+        {
+          "title": "Yesgo | Google Play",
+          "icon": "google-play",
+          "url": "https://play.google.com/store/apps/details?id=com.yesgo"
         }
       ],
     },
     {
-      "title": "Yesgo",
+      "title": "Dareco",
       "overline": "Featured Project",
       "description": "Consequat quis adipisicing qui fugiat minim officia laboris. Amet nisi nostrud pariatur do deserunt consectetur eiusmod occaecat.",
       "image": "http://placeimg.com/640/480/food",
@@ -184,8 +201,9 @@ export const data = {
       ],
       "links": [
         {
-          "icon": "play-store.jpg",
-          "link": ""
+          "title": "Dareco | Google Play",
+          "icon": "google-play",
+          "url": "https://play.google.com/store/apps/details?id=com.limonbyte.dareco"
         }
       ],
     },
@@ -205,8 +223,14 @@ export const data = {
       ],
       "links": [
         {
-          "icon": "play-store.jpg",
-          "link": ""
+          "title": "Sysge24 | Web",
+          "icon": "web",
+          "url": "https://sysge24.com/"
+        },
+        {
+          "title": "Sysge24 | Google Play",
+          "icon": "google-play",
+          "url": "https://play.google.com/store/apps/details?id=com.sysge24"
         }
       ],
     },
@@ -223,8 +247,9 @@ export const data = {
       ],
       "links": [
         {
-          "icon": "play-store.jpg",
-          "link": ""
+          "title": "Automatizac | Web",
+          "icon": "web",
+          "url": "https://www.automatizac.com.mx/"
         }
       ],
     },
@@ -239,12 +264,7 @@ export const data = {
         "SQL",
         "Socket.io"
       ],
-      "links": [
-        {
-          "icon": "play-store.jpg",
-          "link": ""
-        }
-      ],
+      "links": [],
     },
     {
       "title": "Huyces",
@@ -256,12 +276,7 @@ export const data = {
         "PHP",
         "SQL",
       ],
-      "links": [
-        {
-          "icon": "play-store.jpg",
-          "link": ""
-        }
-      ],
+      "links": [],
     },
     {
       "title": "PIC Microcontrollers Multiporpuse Software",
@@ -276,7 +291,8 @@ export const data = {
       ],
       "links": [
         {
-          "icon": "play-store.jpg",
+          "title": "Repositorios",
+          "icon": "web",
           "url": ""
         }
       ],

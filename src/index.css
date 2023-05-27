@@ -69,7 +69,7 @@
     margin: 10px 0 40px;
     padding: 0 0.5rem;
     font-size: clamp(26px, 5vw, 32px);
-    @apply text-lightest-slate font-bold sm:px-0;
+    @apply text-white font-bold sm:px-0;
   }
 
   #about,
@@ -198,7 +198,7 @@
     margin: 0 10px 20px;
     font-size: clamp(24px, 5vw, 28px);
     font-weight: bold;
-    @apply text-lightest-slate lg:mx-0;
+    @apply text-white lg:mx-0;
   }
   .project-description {
     font-size: 16px;
@@ -223,6 +223,9 @@
       sm:mx-0
       sm:mt-[25px]
       sm:mb-[10px];
+  }
+  .project-link-list {
+    margin-top: 10px;
   }
   .project:nth-of-type(2n+1) .project-link-list,
   .project:nth-of-type(2n+1) .project-tech-list {
