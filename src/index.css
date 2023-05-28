@@ -107,6 +107,20 @@
     @apply rounded-md sm:mb-0 shadow-blue;
   }
 
+  #about .about-skills {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    @apply text-gray-300;
+  }
+
+  #about .about-skills li::before {
+    content: "▹";
+    margin-right: 0.5rem;
+    font-size: 12px;
+    line-height: 12px;
+    @apply text-blue;
+  }
+
   .project {
     position: relative;
     overflow: hidden;

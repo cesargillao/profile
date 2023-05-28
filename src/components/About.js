@@ -7,6 +7,27 @@ const About = () => (
         <img src="https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/862.jpg" alt="César Gil Lao" />
       </div>
     </div>
+    <p className="text-gray-300 pb-2">Here are a few technologies I've been working with recently:</p>
+    <div className="content">
+      <ul className="about-skills flex-[3]">
+        <li>React.js</li>
+        <li>React Native</li>
+        <li>Flutter</li>
+        <li>TypeScript</li>
+        <li>Tailwind CSS</li>
+        <li>SASS</li>
+        <li>Nest.js</li>
+        <li>Node.js</li>
+        <li>Express.js</li>
+        <li>PHP</li>
+        <li>Laravel</li>
+        <li>SQL</li>
+        <li>Git</li>
+        <li>Redux</li>
+        <li>Socket.io</li>
+      </ul>
+      <div className="flex-[2]" />
+    </div>
   </section>
 );
 
