@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/profile/static/css/main.d5301eeb.css",
-    "main.js": "/profile/static/js/main.ee728654.js",
+    "main.css": "/profile/static/css/main.b530d3db.css",
+    "main.js": "/profile/static/js/main.b5ac52e2.js",
     "static/media/César Gil Lao 2023 - Spanish.pdf": "/profile/static/media/César Gil Lao 2023 - Spanish.3b194a5d845552bfa608.pdf",
     "static/media/César Gil Lao 2023 - English.pdf": "/profile/static/media/César Gil Lao 2023 - English.9f31bde24de540fc56c2.pdf",
     "static/media/SFMono-Regular.ttf": "/profile/static/media/SFMono-Regular.04c2f44851d26268afe8.ttf",
@@ -14,11 +14,11 @@
     "static/media/document-text.svg": "/profile/static/media/document-text.013ed289891afe66799cf5e51af7a5dd.svg",
     "static/media/close-circle.svg": "/profile/static/media/close-circle.2df9f297a953ab09c279bf3271bf3606.svg",
     "static/media/menu.svg": "/profile/static/media/menu.db2e62d8bbdf4f98e86c8396955d9657.svg",
-    "main.d5301eeb.css.map": "/profile/static/css/main.d5301eeb.css.map",
-    "main.ee728654.js.map": "/profile/static/js/main.ee728654.js.map"
+    "main.b530d3db.css.map": "/profile/static/css/main.b530d3db.css.map",
+    "main.b5ac52e2.js.map": "/profile/static/js/main.b5ac52e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5301eeb.css",
-    "static/js/main.ee728654.js"
+    "static/css/main.b530d3db.css",
+    "static/js/main.b5ac52e2.js"
   ]
 }
