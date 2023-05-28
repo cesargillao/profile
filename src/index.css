@@ -181,7 +181,6 @@
   }
 
   .project-content {
-    grid-column: 8 / -1;
     grid-area: 1 / 7 / -1 / -1;
     text-align: right;
     @apply text-slate;
