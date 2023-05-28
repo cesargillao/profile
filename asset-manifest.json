@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/profile/static/css/main.16ff0a9e.css",
+    "main.js": "/profile/static/js/main.3162cab9.js",
+    "static/media/César Gil Lao 2023 - Spanish.pdf": "/profile/static/media/César Gil Lao 2023 - Spanish.f2d11b0c5d6173d862ab.pdf",
+    "static/media/César Gil Lao 2023 - English.pdf": "/profile/static/media/César Gil Lao 2023 - English.6fddd2a7551f4ff93e0f.pdf",
+    "static/media/SFMono-Regular.ttf": "/profile/static/media/SFMono-Regular.04c2f44851d26268afe8.ttf",
+    "static/media/Calibre-Regular.ttf": "/profile/static/media/Calibre-Regular.5953fa35a6c05f584064.ttf",
+    "static/media/prusked.png": "/profile/static/media/prusked.2573a64431c7156c8131.png",
+    "static/media/android.svg": "/profile/static/media/android.1d2beb06bc1df06e8d3f741aa8b5c013.svg",
+    "static/media/global.svg": "/profile/static/media/global.582197ce7bcee27f3f6fede1c5e5b5e6.svg",
+    "static/media/google-play.svg": "/profile/static/media/google-play.47bf371af29e6d7112bf5252594c6937.svg",
+    "index.html": "/profile/index.html",
+    "static/media/document-text.svg": "/profile/static/media/document-text.20364ec65f72392742890926b675e410.svg",
+    "static/media/close-circle.svg": "/profile/static/media/close-circle.238a3c9d7a90d82f4f2c6c47047dd109.svg",
+    "static/media/menu.svg": "/profile/static/media/menu.97ffcfd554a469f2be692f4879483815.svg",
+    "main.16ff0a9e.css.map": "/profile/static/css/main.16ff0a9e.css.map",
+    "main.3162cab9.js.map": "/profile/static/js/main.3162cab9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16ff0a9e.css",
+    "static/js/main.3162cab9.js"
+  ]
+}
