@@ -37,7 +37,7 @@ const ProjectItem = ({ image, title, overline, description, technologies, links 
         <ul className="project-link-list">
           {links.map((link, index) => (
             <li key={`link-${index}`}>
-              <a href={link.url}>
+              <a href={link.url} target="_blank" rel="noreferrer">
                 <img title={link?.title} src={getIcon(link.icon)} alt="Link Icon" />
               </a>
             </li>
