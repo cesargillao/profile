@@ -69,7 +69,7 @@
     margin: 10px 0 40px;
     padding: 0 0.5rem;
     font-size: clamp(26px, 5vw, 32px);
-    @apply text-white font-bold sm:px-0;
+    @apply text-white font-bold lg:px-0;
   }
 
   #about,
@@ -89,7 +89,7 @@
     display: flex;
     text-align: justify;
     padding: 0 0.5rem;
-    @apply text-gray-300 sm:flex-[3] sm:px-0;
+    @apply text-gray-300 sm:flex-[3] lg:px-0;
   }
 
   #about .photo {
@@ -110,6 +110,7 @@
   #about .about-skills {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+    flex: 3;
     @apply text-gray-300;
   }
 
@@ -233,9 +234,9 @@
       justify-end
       font-sf-mono
       text-blue
-      sm:mx-0
-      sm:mt-[25px]
-      sm:mb-[10px];
+      lg:mx-0
+      lg:mt-[25px]
+      lg:mb-[10px];
   }
   .project-link-list {
     margin-top: 10px;
