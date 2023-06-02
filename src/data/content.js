@@ -5,7 +5,7 @@ export const data = {
     {
       "title": "Raila: Language Assistant",
       "overline": "Side Project",
-      "description": "Raila es una app potenciada con Chat GPT que ayuda a recordar e implementar palabras en distintos idiomas con el envío frecuente de recordatorios en forma de notificaciones",
+      "description": "Raila is an app powered by Chat GPT that helps to remember and implement words in different languages ​​with the frequent sending of reminders in the form of notifications",
       "description_es": "Raila es una app potenciada con Chat GPT que ayuda a recordar e implementar palabras en distintos idiomas con el envío frecuente de recordatorios en forma de notificaciones",
       "image": "http://placeimg.com/640/480/food",
       "technologies": [
@@ -23,7 +23,7 @@ export const data = {
     {
       "title": "Mr. Parking",
       "overline": "Side Project (In Progress)",
-      "description": "Mr. Parking es una app cuyo objetivo principal es ubicar estacionamientos en tiempo real, dependiendo del tipo de vehículo del conductor. Y como modelo de negocio, se implementa una tienda orientada a todo tipo de vehículo",
+      "description": "Mr. Parking is an app whose main objective is to locate parking spots in real-time, depending on the type of vehicle the driver has. And as a business model, a store is implemented that is focused on all types of vehicles",
       "description_es": "Mr. Parking es una app cuyo objetivo principal es ubicar estacionamientos en tiempo real, dependiendo del tipo de vehículo del conductor. Y como modelo de negocio, se implementa una tienda orientada a todo tipo de vehículo",
       "image": "http://placeimg.com/640/480/food",
       "technologies": [
@@ -44,8 +44,8 @@ export const data = {
     {
       "title": "CreditBook",
       "overline": "Side Project",
-      "description": "CreditBook es una app para administrar los prestamos personales, cuya paleta de colores fue inspirada por Binance. Fue la primera app que creé luego de reallizar el curso de React Native",
-      "description_es": "CreditBook es una app para administrar los prestamos personales, cuya paleta de colores fue inspirada por Binance. Fue la primera app que creé luego de reallizar el curso de React Native",
+      "description": "CreditBook is an app to manage personal loans, whose color palette was inspired by Binance. It was the first app I created after completing the React Native course.",
+      "description_es": "CreditBook es una app para administrar los préstamos personales, cuya paleta de colores fue inspirada por Binance. Fue la primera app que creé luego de realizar el curso de React Native",
       "image": "http://placeimg.com/640/480/food",
       "technologies": [
         "React Native",
@@ -63,8 +63,8 @@ export const data = {
     {
       "title": "SIAT: Sistema Integrado de Administración Tributaria (Taxes)",
       "overline": "Featured Project",
-      "description": "Este sistema es el más relevante en mi lista de proyectos ya que se creó desde cero toda la lógica de negocio, los cálculos y sus extensos formularios en una tecnología de la cual no tenía conocimiento (Angular) pero facilmente pude adaptarme. Lo más satisfactorio es saber que fue usado por miles de usuarios",
-      "description_es": "Este sistema es el más relevante en mi lista de proyectos ya que se creó desde cero toda la lógica de negocio, los cálculos y sus extensos formularios en una tecnología de la cual no tenía conocimiento (Angular) pero facilmente pude adaptarme. Lo más satisfactorio es saber que fue usado por miles de usuarios",
+      "description": "This system is the most relevant in my project list, since all the business logic, calculations, and extensive forms were created from scratch in a technology that I had no knowledge of (Angular), but I was able to easily adapt. The most satisfying part is knowing that it was used by thousands of users",
+      "description_es": "Este sistema es el más relevante en mi lista de proyectos, ya que se creó desde cero toda la lógica de negocio, los cálculos y sus extensos formularios en una tecnología de la cual no tenía conocimiento (Angular) pero fácilmente pude adaptarme. Lo más satisfactorio es saber que fue usado por miles de usuarios",
       "image": "http://placeimg.com/640/480/food",
       "technologies": [
         "Angular",
@@ -76,8 +76,8 @@ export const data = {
     {
       "title": "Prevenauto",
       "overline": "Featured Project",
-      "description": "Aplicación para el registro de combustible y kilometraje de la flota de vehículos. Me encargué de realizar la mayoría de las pantallas para los diferentes entornos en base a un diseño proporcionado",
-      "description_es": "Aplicación para el registro de combustible y kilometraje de la flota de vehículos. Me encargué de realizar la mayoría de las pantallas para los diferentes entornos en base a un diseño proporcionado",
+      "description": "Is an application for the registration of fuel and mileage for the fleet of vehicles. I was in charge of creating most of the screens for the different environments based on a provided design",
+      "description_es": "Es una aplicación para el registro de combustible y kilometraje de la flota de vehículos. Me encargué de realizar la mayoría de las pantallas para los diferentes entornos basándome en un diseño proporcionado",
       "image": "http://placeimg.com/640/480/food",
       "technologies": [
         "React Native",
@@ -95,8 +95,8 @@ export const data = {
     {
       "title": "Below",
       "overline": "Featured Project",
-      "description": "Below es un sistema para administar servicio técnico profesional de mantenimiento preventivo y correctivo de aire acondicionado. El cual posee una app móvil y web. Desarrollé todas las pantallas de la web y gran parte de sus funcionalidades. Participé en algunas pantallas y detalles en la app móvil incluyendo la versión para iOS y también en algunos ajustes en backend.",
-      "description_es": "Below es un sistema para administar servicio técnico profesional de mantenimiento preventivo y correctivo de aire acondicionado. El cual posee una app móvil y web. Desarrollé todas las pantallas de la web y gran parte de sus funcionalidades. Participé en algunas pantallas y detalles en la app móvil incluyendo la versión para iOS y también en algunos ajustes en backend.",
+      "description": "Below is a system for managing professional technical service for preventative and corrective maintenance of air conditioning, which has a mobile and web app. I developed all the screens for the web and a large part of its functionalities. I also participated in some screens and details on the mobile app, including the iOS version, as well as some adjustments in the back end",
+      "description_es": "Below es un sistema para administrar servicio técnico profesional de mantenimiento preventivo y correctivo de aire acondicionado. El cual posee una app móvil y web. Desarrollé todas las pantallas de la web y gran parte de sus funcionalidades. Participé en algunas pantallas y detalles en la app móvil, incluyendo la versión para iOS y también en algunos ajustes en back end",
       "image": "http://placeimg.com/640/480/food",
       "technologies": [
         "React Native",
@@ -119,7 +119,7 @@ export const data = {
     {
       "title": "Tecno",
       "overline": "Featured Project",
-      "description": "Tecno permite organizar los pedidos de los clientes por anticipado. Posee una app web que se encarga de la logística, los usuarios, productos, procesar los pedidos, cierres de caja, etc. Participé en todo el front end de ambas apps",
+      "description": "Tecno allows for organizing customer orders in advance. It has a web app that handles logistics, users, products, order processing, cash management, etc. I participated in all the front-end work for both apps",
       "description_es": "Tecno permite organizar los pedidos de los clientes por anticipado. Posee una app web que se encarga de la logística, los usuarios, productos, procesar los pedidos, cierres de caja, etc. Participé en todo el front end de ambas apps",
       "image": "http://placeimg.com/640/480/food",
       "technologies": [
@@ -142,8 +142,8 @@ export const data = {
     {
       "title": "SerVIP",
       "overline": "Featured Project",
-      "description": "SerVIP es una app en la que puedes buscar directorios comerciales por categorías, estados y ciudades. Desarrollé todas las pantallas en base a un diseño proporcionado y al cabo de un tiempo me solicitaron implementar un rediseño completo.",
-      "description_es": "SerVIP es una app en la que puedes buscar directorios comerciales por categorías, estados y ciudades. Desarrollé todas las pantallas en base a un diseño proporcionado y al cabo de un tiempo me solicitaron implementar un rediseño completo.",
+      "description": "SerVIP is an app where you can search business directories by categories, states and cities. I developed all the screens based on a layout provided and after a while they asked me to implement a complete redesign",
+      "description_es": "SerVIP es una app en la que puedes buscar directorios comerciales por categorías, estados y ciudades. Desarrollé todas las pantallas basándome en un diseño proporcionado y al cabo de un tiempo me solicitaron implementar un rediseño completo",
       "image": "http://placeimg.com/640/480/food",
       "technologies": [
         "React Native",
@@ -164,7 +164,8 @@ export const data = {
     {
       "title": "Taxealo",
       "overline": "Featured Project",
-      "description": "Taxealo es una app como Uber. Partió desde un proyecto base y surgieron varias apps con diferentes nombres y características distintas. Implementé el rediseño de Taxealo y Liberty en sus versiones de Pasajero y Conductor. También participé en implementaciones y ajustes de la parte web administrativa y el backend",
+      "description": "Taxealo is an app like Uber. It started from a base project and several apps emerged with different names and different characteristics. I implemented the Taxealo and Liberty redesign in their Passenger and Driver versions. I also participated in implementations and adjustments of the administrative web part and the back end",
+      "description_es": "Taxealo es una app como Uber. Partió desde un proyecto base y surgieron varias apps con diferentes nombres y características distintas. Implementé el rediseño de Taxealo y Liberty en sus versiones de Pasajero y Conductor. También participé en implementaciones y ajustes de la parte web administrativa y el back end",
       "image": "http://placeimg.com/640/480/food",
       "technologies": [
         "React Native",
@@ -201,7 +202,8 @@ export const data = {
     {
       "title": "Dareco",
       "overline": "Featured Project",
-      "description": "Es una app que complementa una tienda web creada con Wordpress y WooCommerce. Implementé funcionalidades que permitieron desde la app crear clientes y autenticarlos, realizar los pedidos, gestionar costos de envío en base a la ubicación del cliente y manejo de productos con variantes",
+      "description": "It is an app that complements a web store created with Wordpress and WooCommerce. I implemented functionalities that allowed from the app to create customers and authenticate them, place orders, manage shipping costs based on the customer's location and manage products with variants",
+      "description_es": "Es una app que complementa una tienda web creada con Wordpress y WooCommerce. Implementé funcionalidades que permitieron desde la app crear clientes y autenticarlos, realizar los pedidos, gestionar costos de envío basándome en la ubicación del cliente y manejo de productos con variantes",
       "image": "http://placeimg.com/640/480/food",
       "technologies": [
         "React Native",
@@ -228,7 +230,8 @@ export const data = {
     {
       "title": "Sysge24",
       "overline": "Featured Project",
-      "description": "Es un ERP que consta de 3 partes: Web administrativa, app móvil y tienda pública, siendo esta última desarrollada desde cero por mí, el cual sirve para realizar pedidos siendo posible enviar estos mediante WhatsApp. También me tocó implementar mejoras en la web administrativa de front end y back end, además de migrar funcionalidades existentes en la app móvil hacia la web. En la app móvil me tocó realizar un rediseño parcial",
+      "description": "It is an ERP that consists of 3 parts: administrative website, mobile app and public store, the latter being developed from scratch by me, which is used to place orders, and it is possible to send them via WhatsApp. I also had to implement improvements in the front end and back end administrative web, in addition to migrating existing functionalities in the mobile app to the web. In the mobile app I had to carry out a partial redesign",
+      "description_es": "Es un ERP que consta de 3 partes: Web administrativa, app móvil y tienda pública, siendo esta última desarrollada desde cero por mí, el cual sirve para realizar pedidos, siendo posible enviar estos mediante WhatsApp. También me tocó implementar mejoras en la web administrativa de front end y back end, además de migrar funcionalidades existentes en la app móvil hacia la web. En la app móvil me tocó realizar un rediseño parcial",
       "image": "http://placeimg.com/640/480/food",
       "technologies": [
         "React Native",
@@ -261,7 +264,8 @@ export const data = {
     {
       "title": "Automatizac",
       "overline": "Featured Project",
-      "description": "Automatizac es un ERP para la administración de contratos de instalación, servicio y mantenimiento a portones elécticos. Fue creado desde cero y constituido por una app web y una app móvil la cual le permite al técnico gestionar su calendario de servicios y reportar trabajos realizados",
+      "description": "Automatizac is an ERP for the administration of installation, service and maintenance contracts for electric gates. It was created from scratch and made up of a web app and a mobile app, which allows the technician to manage their service calendar and report work done",
+      "description_es": "Automatizac es un ERP para la administración de contratos de instalación, servicio y mantenimiento a portones eléctricos. Fue creado desde cero y constituido por una app web y una app móvil, la cual le permite al técnico gestionar su calendario de servicios y reportar trabajos realizados",
       "image": "http://placeimg.com/640/480/food",
       "technologies": [
         "Angular.js",
@@ -280,8 +284,8 @@ export const data = {
     {
       "title": "Cucaramatcha Restaurant POS",
       "overline": "Featured Project",
-      "description": "Es un POS el cual se conecta a una app móvil multientornos en tiempo real para enviar los pedidos a la cocina, notificar el estatus de pedidos, reserva de mesas. Fue creado todo desde cero enteramente por mí",
-      "description_es": "Es un POS el cual se conecta a una app móvil multientornos en tiempo real para enviar los pedidos a la cocina, notificar el estatus de pedidos, reserva de mesas. Fue creado todo desde cero enteramente por mí",
+      "description": "It is a POS which connects to a multi-environment mobile app in real time to send orders to the kitchen, notify the status of orders, reserve tables, control input costs through recipes for dishes and products, warehouse management and orders to suppliers. It was designed and created all from scratch entirely by me",
+      "description_es": "Es un POS el cual se conecta a una app móvil multientornos en tiempo real para enviar los pedidos a la cocina, notificar el estatus de pedidos, reserva de mesas, control de gastos de insumos mediante las recetas de los platillos y productos, gestión de almacenes y pedidos a proveedores. Fue diseñado y creado todo desde cero enteramente por mí",
       "image": "http://placeimg.com/640/480/food",
       "technologies": [
         "Angular.js",
@@ -294,8 +298,8 @@ export const data = {
     {
       "title": "Huyces",
       "overline": "Featured Project",
-      "description": "Es un ERP el cual se conecta a una app móvil que permite a los vendedores realizar pedidos de forma offline y visualizar clientes en el mapa por itinerario diario. Fue creado todo desde cero enteramente por mí",
-      "description_es": "Es un ERP el cual se conecta a una app móvil que permite a los vendedores realizar pedidos de forma offline y visualizar clientes en el mapa por itinerario diario. Fue creado todo desde cero enteramente por mí",
+      "description": "It is an ERP which connects to a mobile app that allows sellers to place orders offline and view customers on the map by daily itinerary. Internally, the web app has an error manager, which notifies them through a Telegram bot. It was created all from scratch entirely by me.",
+      "description_es": "Es un ERP el cual se conecta a una app móvil que permite a los vendedores realizar pedidos de forma offline y visualizar clientes en el mapa por itinerario diario. Internamente, la app web posee un gestor de errores la cual los notifica mediante un bot de Telegram. Fue creado todo desde cero enteramente por mí",
       "image": "http://placeimg.com/640/480/food",
       "technologies": [
         "Angular.js",
@@ -307,7 +311,8 @@ export const data = {
     {
       "title": "PIC Microcontrollers Multiporpuse Software",
       "overline": "Featured Project",
-      "description": "En mi perfil de Github podrás encontrar múltiples proyectos relacionados con microcontroladores PIC, los cuales han sido desarrollados enteramente por mí y algunos de ellos los he usado en proyectos comerciales. Otros fueron realizados mediante ingeniería inversa con fines educativos para replicar el funcionamiento de equipo que yo mismo ensamblaba en una empresa para la cual trabajé en el año 2016",
+      "description": "In my Github profile you can find multiple projects related to PIC microcontrollers, which have been developed entirely by me and some of them I have used in commercial projects. Others were reverse-engineered for educational purposes to replicate the operation of equipment that I myself assembled in a company I worked for in 2016",
+      "description_es": "En mi perfil de Github podrás encontrar múltiples proyectos relacionados con microcontroladores PIC, los cuales han sido desarrollados enteramente por mí y algunos de ellos los he usado en proyectos comerciales. Otros fueron realizados mediante ingeniería inversa con fines educativos para replicar el funcionamiento de equipo que yo mismo ensamblaba en una empresa para la cual trabajé en el año 2016",
       "image": "http://placeimg.com/640/480/food",
       "technologies": [
         "C",
