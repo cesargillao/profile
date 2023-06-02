@@ -308,6 +308,10 @@
     lg:-left-0;
 }
 
+#resume-bar .resume-bar-close img {
+  cursor: pointer;
+}
+
 #resume-bar.open {
   bottom: 0;
 }
