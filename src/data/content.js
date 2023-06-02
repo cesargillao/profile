@@ -249,10 +249,9 @@ export const data = {
           "url": "https://sysge24.com"
         },
         {
-          // TODO: Poner la url real
           "title": "Sysge24 | App Store",
           "icon": "app-store",
-          "url": ""
+          "url": "https://apps.apple.com/gw/app/sysge24/id1625740493"
         },
         {
           "title": "Sysge24 | Google Play",

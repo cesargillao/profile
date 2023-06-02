@@ -1,4 +1,5 @@
 import AndroidIcon from '../assets/icons/android.svg';
+import AppleIcon from '../assets/icons/apple.svg';
 import GlobalIcon from '../assets/icons/global.svg';
 import GooglePlayIcon from '../assets/icons/google-play.svg';
 
@@ -11,6 +12,9 @@ const ProjectItem = ({ image, title, overline, description, technologies, links 
 
       case 'google-play':
         return GooglePlayIcon;
+
+      case 'app-store':
+        return AppleIcon;
 
       case 'web':
       default:
