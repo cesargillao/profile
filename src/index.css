@@ -34,10 +34,6 @@
     background-size: 16px 16px !important;
   }
 
-  h1, h2, h3, h4, h5, h6 {
-    line-height: 1.1;
-  }
-
   #link-group {
     flex-direction: column;
     position: absolute;
@@ -62,11 +58,11 @@
   }
 
   .link {
-    @apply text-sm font-mono leading-6 text-white;
+    @apply text-sm font-sf-mono leading-6 text-white;
   }
 
   section > .title {
-    margin: 10px 0 40px;
+    margin: calc(10px + 4rem) 0 40px;
     padding: 0 0.5rem;
     font-size: clamp(26px, 5vw, 32px);
     @apply text-white font-bold lg:px-0;

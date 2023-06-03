@@ -5,7 +5,7 @@ const App = () => {
     <div className="isolate min-h-screen">
       <Header />
       <ResumeBar />
-      <main className="pt-16">
+      <main>
         <About />
         <Work />
         <Contact />
