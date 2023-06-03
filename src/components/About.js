@@ -12,7 +12,9 @@ const About = () => (
     <p className="text-gray-300 pt-4 pb-2 px-2 lg:px-0">Here are a few technologies I've been working with recently:</p>
     <div className="content px-2 lg:px-0">
       <ul className="about-skills">
-        {data.skills.map(skill => <li>{ skill }</li>)}
+        {data.skills.map((skill, index) => (
+          <li key={`skill-${index}`}>{ skill }</li>
+        ))}
       </ul>
       <div className="flex-[2]" />
     </div>
