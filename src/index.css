@@ -69,7 +69,8 @@
   }
 
   #about,
-  .projects {
+  #experience,
+  #work {
     max-width: 1000px;
     margin: 0px auto;
     padding: 1rem 0;
@@ -116,6 +117,73 @@
     font-size: 12px;
     line-height: 12px;
     @apply text-blue;
+  }
+
+  #experience .content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    @apply text-gray-300;
+  }
+
+  #experience .content .experience-labels {
+    width: 15rem;
+  }
+
+  #experience .content .experience-labels li {
+    padding: 0.75rem 1rem;
+    cursor: pointer;
+    transition: background 250ms ease;
+    @apply font-sf-mono text-sm border-l-2 border-gray-700;
+  }
+
+  #experience .content .experience-labels li.selected {
+    padding: 0.75rem 1rem;
+    @apply border-l-2 border-blue text-blue;
+  }
+
+  #experience .content .experience-labels li:hover {
+    @apply bg-blue/10;
+  }
+
+  #experience .content .details {
+    flex: 1;
+    padding: 0.75rem 1rem;
+  }
+
+  #experience .content .details .title {
+    @apply text-lg font-bold;
+  }
+
+  #experience .content .details .title .enterprise {
+    @apply text-blue;
+  }
+
+  #experience .content .details .date {
+    @apply font-sf-mono text-sm text-gray-400;
+  }
+
+  #experience .content .details .goals {
+    display: grid;
+    gap: 1rem;
+    margin-top: 1.5rem;
+  }
+
+  #experience .content .details .goals li {
+    display: flex;
+  }
+
+  #experience .content .details .goals li::before {
+    content: "▹";
+    margin-top: 7px;
+    margin-right: 1rem;
+    font-size: 12px;
+    line-height: 12px;
+    @apply text-blue;
+  }
+
+  #experience .content .details .goals li p {
+    text-align: justify;
   }
 
   .project {

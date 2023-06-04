@@ -1,4 +1,4 @@
-import { About, Contact, Header, ResumeBar, Work } from './components';
+import { About, Contact, Experience, Header, ResumeBar, Work } from './components';
 
 const App = () => {
   return (
@@ -7,6 +7,7 @@ const App = () => {
       <ResumeBar />
       <main>
         <About />
+        <Experience />
         <Work />
         <Contact />
       </main>

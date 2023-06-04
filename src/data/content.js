@@ -1,5 +1,3 @@
-
-
 export const data = {
   "profile_photo": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/862.jpg",
   "about": "I am a software developer with 7 years of experience. I am passionate about creating visually striking, intuitive, scalable, and high-quality software with added value. I have extensive experience developing full web and mobile applications with technologies such as React.js, React Native, Flutter and Node.js. Also, I am always on personal side projects that allow me to learn about new tools and techniques that can improve the development process and ensure the quality of the final product.",
@@ -19,6 +17,74 @@ export const data = {
     "Git",
     "Redux",
     "Socket.io"
+  ],
+  "experience": [
+    {
+      "position": "Web/App Front end Developer",
+      "enterprise": "Limónbyte",
+      "location": "Aragua, VE",
+      "from": "Feb 2022",
+      "until": "Currently",
+      "goals": [
+        "I have implemented interfaces and functionalities in mobile and web applications, and in some cases, the projects were created from scratch.",
+        "I have supported the back-end team in technologies such as Laravel/Nest.js to complement the required functionality in the front-end and also improve workflow.",
+        "Up to this point, I have participated in more than 20 projects within the company"
+      ],
+      "goals_es": [
+        "He Implementado interfaces y funcionalidades en aplicaciones móviles y web y en algunos casos los proyectos fueron creados desde cero.",
+        "He apoyado al equipo de back end en tecnologías como Laravel/Nest.js para complementar las funcionalidades requeridas en el front end y también mejorar el flujo de trabajo.",
+        "Hasta el momento he participado en más de 20 proyectos dentro de la empresa."
+      ],
+    },
+    {
+      "position": "Fullstack Developer",
+      "enterprise": "Andysoft IT Services",
+      "location": "Zacatecas, MX",
+      "from": "Sep 2020",
+      "until": "Feb 2022",
+      "goals": [
+        "I developed ERP and POS systems from scratch, hybrid mobile applications, functionalities, and maintenance in different web systems.",
+        "I developed an MVC structure in pure PHP and implemented it in existing projects and new developments to replace the inefficient file structure.",
+        "I was responsible for developing the workflow and structuring the databases of the applications",
+      ],
+      "goals_es": [
+        "Desarrollé sistemas ERP y POS desde cero, aplicaciones móviles híbridas, funcionalidades y mantenimiento en distintos sistemas web.",
+        "Desarrollé una estructura MVC en PHP puro y lo implementé en los proyectos existentes y en los nuevos desarrollos para sustituir la ineficiente estructura de archivos.",
+        "Fui el responsable de desarrollar el flujo de trabajo y la estructuración de las bases de datos de las aplicaciones.",
+      ],
+    },
+    {
+      "position": "Freelance Software Developer",
+      "enterprise": "Alcaldía de Zamora",
+      "location": "Miranda, VE",
+      "from": "Mar 2020",
+      "until": "Sep 2020",
+      "goals": [
+        "As a part-time job, I was hired to develop a tax system for one of the municipalities in the state. It has an environment for taxpayers and another for the employees of the tax-collecting company.",
+        "Despite not having any prior knowledge of Angular, I accepted the challenge and was able to achieve the required objective.",
+        "I designed and developed the entire functional structure of the system from scratch."
+      ],
+      "goals_es": [
+        "Como trabajo de medio tiempo fui contratado para desarrollar un sistema tributario para uno de los municipios del estado. El mismo posee un entorno para contribuyentes y otro para los empleados de la empresa recaudadora.",
+        "A pesar de no tener conocimientos en Angular, acepté y reto y pude lograr el objetivo que se requería.",
+        "Diseñé y desarrollé toda la estructura funcional del sistema desde cero."
+      ],
+    },
+    {
+      "position": "Development and Database Coordinator",
+      "enterprise": "SITSSA",
+      "location": "Caracas, VE",
+      "from": "Dec 2017",
+      "until": "Feb 2021",
+      "goals": [
+        "I started as a developer and was later promoted to Coordinator of the Development and Database department.",
+        "I managed several legacy administrative systems of the company and participated in the migration and unification of these to a new system."
+      ],
+      "goals_es": [
+        "Ingresé como desarrollador y en el transcurso fui ascendido a Coordinador del área de Desarrollo y Base de Datos.",
+        "Administré varios sistemas legacy administrativos de la empresa y participé en la migración y unificación de estos a un sistema nuevo."
+      ],
+    },
   ],
   "work": [
     {
