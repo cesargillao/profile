@@ -121,13 +121,15 @@
 
   #experience .content {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-between;
-    @apply text-gray-300;
+    @apply text-gray-300 lg:flex-row;
   }
 
   #experience .content .experience-labels {
     width: 15rem;
+    margin: 0 0.5rem 1rem;
+    @apply lg:m-0
   }
 
   #experience .content .experience-labels li {
@@ -148,7 +150,8 @@
 
   #experience .content .details {
     flex: 1;
-    padding: 0.75rem 1rem;
+    padding: 0.75rem 0.5rem;
+    @apply lg:px-4;
   }
 
   #experience .content .details .title {
