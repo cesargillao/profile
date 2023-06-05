@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/profile/static/css/main.edd7ad00.css",
-    "main.js": "/profile/static/js/main.1224f390.js",
-    "static/media/César Gil Lao 2023 - Spanish.pdf": "/profile/static/media/César Gil Lao 2023 - Spanish.727c8541133c31aaa394.pdf",
-    "static/media/César Gil Lao 2023 - English.pdf": "/profile/static/media/César Gil Lao 2023 - English.7b1a90d391a56d300360.pdf",
+    "main.js": "/profile/static/js/main.f9945559.js",
+    "static/media/César Gil Lao 2023 - Spanish.pdf": "/profile/static/media/César Gil Lao 2023 - Spanish.efcfe961f1532a8096b6.pdf",
+    "static/media/César Gil Lao 2023 - English.pdf": "/profile/static/media/César Gil Lao 2023 - English.019d8d9c5be904c641e3.pdf",
     "static/media/profile-photo.png": "/profile/static/media/profile-photo.9f4e1a6f5e30649bb112.png",
     "static/media/tecno.png": "/profile/static/media/tecno.fadb5850cf2dc07bf7ea.png",
     "static/media/dareco.png": "/profile/static/media/dareco.e7e035cdb1444e9f3821.png",
@@ -27,10 +27,10 @@
     "static/media/close-circle.svg": "/profile/static/media/close-circle.238a3c9d7a90d82f4f2c6c47047dd109.svg",
     "static/media/menu.svg": "/profile/static/media/menu.97ffcfd554a469f2be692f4879483815.svg",
     "main.edd7ad00.css.map": "/profile/static/css/main.edd7ad00.css.map",
-    "main.1224f390.js.map": "/profile/static/js/main.1224f390.js.map"
+    "main.f9945559.js.map": "/profile/static/js/main.f9945559.js.map"
   },
   "entrypoints": [
     "static/css/main.edd7ad00.css",
-    "static/js/main.1224f390.js"
+    "static/js/main.f9945559.js"
   ]
 }
