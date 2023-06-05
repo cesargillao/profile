@@ -277,6 +277,7 @@
       lg:mx-0;
   }
   .project-title {
+    filter: drop-shadow(2px 2px 1px rgba(0,0,0,0.5));
     margin: 0 10px 20px;
     font-size: clamp(24px, 5vw, 28px);
     font-weight: bold;
