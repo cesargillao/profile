@@ -1,10 +1,21 @@
 {
   "files": {
-    "main.css": "/profile/static/css/main.e84d0f6f.css",
-    "main.js": "/profile/static/js/main.f63dd7c3.js",
-    "static/media/César Gil Lao 2023 - Spanish.pdf": "/profile/static/media/César Gil Lao 2023 - Spanish.f2d11b0c5d6173d862ab.pdf",
-    "static/media/César Gil Lao 2023 - English.pdf": "/profile/static/media/César Gil Lao 2023 - English.6fddd2a7551f4ff93e0f.pdf",
+    "main.css": "/profile/static/css/main.edd7ad00.css",
+    "main.js": "/profile/static/js/main.1224f390.js",
+    "static/media/César Gil Lao 2023 - Spanish.pdf": "/profile/static/media/César Gil Lao 2023 - Spanish.727c8541133c31aaa394.pdf",
+    "static/media/César Gil Lao 2023 - English.pdf": "/profile/static/media/César Gil Lao 2023 - English.7b1a90d391a56d300360.pdf",
+    "static/media/profile-photo.png": "/profile/static/media/profile-photo.9f4e1a6f5e30649bb112.png",
+    "static/media/tecno.png": "/profile/static/media/tecno.fadb5850cf2dc07bf7ea.png",
+    "static/media/dareco.png": "/profile/static/media/dareco.e7e035cdb1444e9f3821.png",
+    "static/media/below.png": "/profile/static/media/below.7692529e51a40f58cab6.png",
+    "static/media/sysge24.png": "/profile/static/media/sysge24.5b9389aec6de3910fea6.png",
+    "static/media/taxealo.png": "/profile/static/media/taxealo.062a269f9687fe13250c.png",
+    "static/media/servip.png": "/profile/static/media/servip.eb64b1b50c07ab75f3d4.png",
+    "static/media/prevenauto.png": "/profile/static/media/prevenauto.119ade05ad78d1b19fd3.png",
     "static/media/SFMono-Regular.ttf": "/profile/static/media/SFMono-Regular.04c2f44851d26268afe8.ttf",
+    "static/media/mr-parking.png": "/profile/static/media/mr-parking.fc8c47b83c1a6de508c7.png",
+    "static/media/creditbook.png": "/profile/static/media/creditbook.862d420b666e53904ec5.png",
+    "static/media/raila.png": "/profile/static/media/raila.23ea27c2d1f1c2bf3d12.png",
     "static/media/Calibre-Regular.ttf": "/profile/static/media/Calibre-Regular.5953fa35a6c05f584064.ttf",
     "static/media/prusked.png": "/profile/static/media/prusked.2573a64431c7156c8131.png",
     "static/media/android.svg": "/profile/static/media/android.1d2beb06bc1df06e8d3f741aa8b5c013.svg",
@@ -15,11 +26,11 @@
     "static/media/document-text.svg": "/profile/static/media/document-text.20364ec65f72392742890926b675e410.svg",
     "static/media/close-circle.svg": "/profile/static/media/close-circle.238a3c9d7a90d82f4f2c6c47047dd109.svg",
     "static/media/menu.svg": "/profile/static/media/menu.97ffcfd554a469f2be692f4879483815.svg",
-    "main.e84d0f6f.css.map": "/profile/static/css/main.e84d0f6f.css.map",
-    "main.f63dd7c3.js.map": "/profile/static/js/main.f63dd7c3.js.map"
+    "main.edd7ad00.css.map": "/profile/static/css/main.edd7ad00.css.map",
+    "main.1224f390.js.map": "/profile/static/js/main.1224f390.js.map"
   },
   "entrypoints": [
-    "static/css/main.e84d0f6f.css",
-    "static/js/main.f63dd7c3.js"
+    "static/css/main.edd7ad00.css",
+    "static/js/main.1224f390.js"
   ]
 }
