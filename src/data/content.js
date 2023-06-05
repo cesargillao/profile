@@ -1,11 +1,16 @@
+import AutomatizacImg from '../assets/images/automatizac.png';
 import BelowImg from '../assets/images/below.png';
 import CreditBookImg from '../assets/images/creditbook.png';
+import CucaraMatchaImg from '../assets/images/cucara-matcha.png';
 import DarecoImg from '../assets/images/dareco.png';
+import HuycesImg from '../assets/images/huyces.png';
+import MicrocontrollersImg from '../assets/images/microcontrollers.png';
 import MrParkingImg from '../assets/images/mr-parking.png';
 import PrevenautoImg from '../assets/images/prevenauto.png';
 import ProfilePhoto from '../assets/images/profile-photo.png';
 import RailaImg from '../assets/images/raila.png';
 import ServipImg from '../assets/images/servip.png';
+import SuptrimzaImg from '../assets/images/suptrimza.png';
 import Sysge24Img from '../assets/images/sysge24.png';
 import TaxealoImg from '../assets/images/taxealo.png';
 import TecnoImg from '../assets/images/tecno.png';
@@ -162,7 +167,7 @@ export const data = {
       "overline": "Featured Project",
       "description": "This system is the most relevant in my project list, since all the business logic, calculations, and extensive forms were created from scratch in a technology that I had no knowledge of (Angular), but I was able to easily adapt. The most satisfying part is knowing that it was used by thousands of users",
       "description_es": "Este sistema es el más relevante en mi lista de proyectos, ya que se creó desde cero toda la lógica de negocio, los cálculos y sus extensos formularios en una tecnología de la cual no tenía conocimiento (Angular) pero fácilmente pude adaptarme. Lo más satisfactorio es saber que fue usado por miles de usuarios",
-      "image": "http://placeimg.com/640/480/food",
+      "image": SuptrimzaImg,
       "technologies": [
         "Angular",
         "PHP",
@@ -362,7 +367,7 @@ export const data = {
       "overline": "Featured Project",
       "description": "Automatizac is an ERP for the administration of installation, service and maintenance contracts for electric gates. It was created from scratch and made up of a web app and a mobile app, which allows the technician to manage their service calendar and report work done",
       "description_es": "Automatizac es un ERP para la administración de contratos de instalación, servicio y mantenimiento a portones eléctricos. Fue creado desde cero y constituido por una app web y una app móvil, la cual le permite al técnico gestionar su calendario de servicios y reportar trabajos realizados",
-      "image": "http://placeimg.com/640/480/food",
+      "image": AutomatizacImg,
       "technologies": [
         "Angular.js",
         "PHP",
@@ -378,11 +383,11 @@ export const data = {
       ],
     },
     {
-      "title": "Cucaramatcha Restaurant POS",
+      "title": "Cucara-Matcha Restaurant POS",
       "overline": "Featured Project",
       "description": "It is a POS which connects to a multi-environment mobile app in real time to send orders to the kitchen, notify the status of orders, reserve tables, control input costs through recipes for dishes and products, warehouse management and orders to suppliers. It was designed and created all from scratch entirely by me",
       "description_es": "Es un POS el cual se conecta a una app móvil multientornos en tiempo real para enviar los pedidos a la cocina, notificar el estatus de pedidos, reserva de mesas, control de gastos de insumos mediante las recetas de los platillos y productos, gestión de almacenes y pedidos a proveedores. Fue diseñado y creado todo desde cero enteramente por mí",
-      "image": "http://placeimg.com/640/480/food",
+      "image": CucaraMatchaImg,
       "technologies": [
         "Angular.js",
         "PHP",
@@ -396,7 +401,7 @@ export const data = {
       "overline": "Featured Project",
       "description": "It is an ERP which connects to a mobile app that allows sellers to place orders offline and view customers on the map by daily itinerary. Internally, the web app has an error manager, which notifies them through a Telegram bot. It was created all from scratch entirely by me.",
       "description_es": "Es un ERP el cual se conecta a una app móvil que permite a los vendedores realizar pedidos de forma offline y visualizar clientes en el mapa por itinerario diario. Internamente, la app web posee un gestor de errores la cual los notifica mediante un bot de Telegram. Fue creado todo desde cero enteramente por mí",
-      "image": "http://placeimg.com/640/480/food",
+      "image": HuycesImg,
       "technologies": [
         "Angular.js",
         "PHP",
@@ -409,7 +414,7 @@ export const data = {
       "overline": "Featured Project",
       "description": "In my Github profile you can find multiple projects related to PIC microcontrollers, which have been developed entirely by me and some of them I have used in commercial projects. Others were reverse-engineered for educational purposes to replicate the operation of equipment that I myself assembled in a company I worked for in 2016",
       "description_es": "En mi perfil de Github podrás encontrar múltiples proyectos relacionados con microcontroladores PIC, los cuales han sido desarrollados enteramente por mí y algunos de ellos los he usado en proyectos comerciales. Otros fueron realizados mediante ingeniería inversa con fines educativos para replicar el funcionamiento de equipo que yo mismo ensamblaba en una empresa para la cual trabajé en el año 2016",
-      "image": "http://placeimg.com/640/480/food",
+      "image": MicrocontrollersImg,
       "technologies": [
         "C",
         "CCS Compiler",
