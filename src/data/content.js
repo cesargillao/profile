@@ -1,4 +1,14 @@
+import BelowImg from '../assets/images/below.png';
+import CreditBookImg from '../assets/images/creditbook.png';
+import DarecoImg from '../assets/images/dareco.png';
+import MrParkingImg from '../assets/images/mr-parking.png';
+import PrevenautoImg from '../assets/images/prevenauto.png';
 import ProfilePhoto from '../assets/images/profile-photo.png';
+import RailaImg from '../assets/images/raila.png';
+import ServipImg from '../assets/images/servip.png';
+import Sysge24Img from '../assets/images/sysge24.png';
+import TaxealoImg from '../assets/images/taxealo.png';
+import TecnoImg from '../assets/images/tecno.png';
 
 export const data = {
   "profile_photo": ProfilePhoto,
@@ -94,7 +104,7 @@ export const data = {
       "overline": "Side Project",
       "description": "Raila is an app powered by Chat GPT that helps to remember and implement words in different languages ​​with the frequent sending of reminders in the form of notifications",
       "description_es": "Raila es una app potenciada con Chat GPT que ayuda a recordar e implementar palabras en distintos idiomas con el envío frecuente de recordatorios en forma de notificaciones",
-      "image": "http://placeimg.com/640/480/food",
+      "image": RailaImg,
       "technologies": [
         "Flutter",
         "Chat GPT"
@@ -112,7 +122,7 @@ export const data = {
       "overline": "Side Project (In Progress)",
       "description": "Mr. Parking is an app whose main objective is to locate parking spots in real-time, depending on the type of vehicle the driver has. And as a business model, a store is implemented that is focused on all types of vehicles",
       "description_es": "Mr. Parking es una app cuyo objetivo principal es ubicar estacionamientos en tiempo real, dependiendo del tipo de vehículo del conductor. Y como modelo de negocio, se implementa una tienda orientada a todo tipo de vehículo",
-      "image": "http://placeimg.com/640/480/food",
+      "image": MrParkingImg,
       "technologies": [
         "Flutter",
         "Nest.js",
@@ -133,7 +143,7 @@ export const data = {
       "overline": "Side Project",
       "description": "CreditBook is an app to manage personal loans, whose color palette was inspired by Binance. It was the first app I created after completing the React Native course.",
       "description_es": "CreditBook es una app para administrar los préstamos personales, cuya paleta de colores fue inspirada por Binance. Fue la primera app que creé luego de realizar el curso de React Native",
-      "image": "http://placeimg.com/640/480/food",
+      "image": CreditBookImg,
       "technologies": [
         "React Native",
         "TypeScript",
@@ -165,7 +175,7 @@ export const data = {
       "overline": "Featured Project",
       "description": "Is an application for the registration of fuel and mileage for the fleet of vehicles. I was in charge of creating most of the screens for the different environments based on a provided design",
       "description_es": "Es una aplicación para el registro de combustible y kilometraje de la flota de vehículos. Me encargué de realizar la mayoría de las pantallas para los diferentes entornos basándome en un diseño proporcionado",
-      "image": "http://placeimg.com/640/480/food",
+      "image": PrevenautoImg,
       "technologies": [
         "React Native",
         "Laravel",
@@ -184,7 +194,7 @@ export const data = {
       "overline": "Featured Project",
       "description": "Below is a system for managing professional technical service for preventative and corrective maintenance of air conditioning, which has a mobile and web app. I developed all the screens for the web and a large part of its functionalities. I also participated in some screens and details on the mobile app, including the iOS version, as well as some adjustments in the back end",
       "description_es": "Below es un sistema para administrar servicio técnico profesional de mantenimiento preventivo y correctivo de aire acondicionado. El cual posee una app móvil y web. Desarrollé todas las pantallas de la web y gran parte de sus funcionalidades. Participé en algunas pantallas y detalles en la app móvil, incluyendo la versión para iOS y también en algunos ajustes en back end",
-      "image": "http://placeimg.com/640/480/food",
+      "image": BelowImg,
       "technologies": [
         "React Native",
         "React.js",
@@ -208,7 +218,7 @@ export const data = {
       "overline": "Featured Project",
       "description": "Tecno allows for organizing customer orders in advance. It has a web app that handles logistics, users, products, order processing, cash management, etc. I participated in all the front-end work for both apps",
       "description_es": "Tecno permite organizar los pedidos de los clientes por anticipado. Posee una app web que se encarga de la logística, los usuarios, productos, procesar los pedidos, cierres de caja, etc. Participé en todo el front end de ambas apps",
-      "image": "http://placeimg.com/640/480/food",
+      "image": TecnoImg,
       "technologies": [
         "React Native",
         "React.js",
@@ -231,7 +241,7 @@ export const data = {
       "overline": "Featured Project",
       "description": "SerVIP is an app where you can search business directories by categories, states and cities. I developed all the screens based on a layout provided and after a while they asked me to implement a complete redesign",
       "description_es": "SerVIP es una app en la que puedes buscar directorios comerciales por categorías, estados y ciudades. Desarrollé todas las pantallas basándome en un diseño proporcionado y al cabo de un tiempo me solicitaron implementar un rediseño completo",
-      "image": "http://placeimg.com/640/480/food",
+      "image": ServipImg,
       "technologies": [
         "React Native",
         "React.js",
@@ -253,7 +263,7 @@ export const data = {
       "overline": "Featured Project",
       "description": "Taxealo is an app like Uber. It started from a base project and several apps emerged with different names and different characteristics. I implemented the Taxealo and Liberty redesign in their Passenger and Driver versions. I also participated in implementations and adjustments of the administrative web part and the back end",
       "description_es": "Taxealo es una app como Uber. Partió desde un proyecto base y surgieron varias apps con diferentes nombres y características distintas. Implementé el rediseño de Taxealo y Liberty en sus versiones de Pasajero y Conductor. También participé en implementaciones y ajustes de la parte web administrativa y el back end",
-      "image": "http://placeimg.com/640/480/food",
+      "image": TaxealoImg,
       "technologies": [
         "React Native",
         "React.js",
@@ -291,7 +301,7 @@ export const data = {
       "overline": "Featured Project",
       "description": "It is an app that complements a web store created with Wordpress and WooCommerce. I implemented functionalities that allowed from the app to create customers and authenticate them, place orders, manage shipping costs based on the customer's location and manage products with variants",
       "description_es": "Es una app que complementa una tienda web creada con Wordpress y WooCommerce. Implementé funcionalidades que permitieron desde la app crear clientes y autenticarlos, realizar los pedidos, gestionar costos de envío basándome en la ubicación del cliente y manejo de productos con variantes",
-      "image": "http://placeimg.com/640/480/food",
+      "image": DarecoImg,
       "technologies": [
         "React Native",
         "React.js",
@@ -319,7 +329,7 @@ export const data = {
       "overline": "Featured Project",
       "description": "It is an ERP that consists of 3 parts: administrative website, mobile app and public store, the latter being developed from scratch by me, which is used to place orders, and it is possible to send them via WhatsApp. I also had to implement improvements in the front end and back end administrative web, in addition to migrating existing functionalities in the mobile app to the web. In the mobile app I had to carry out a partial redesign",
       "description_es": "Es un ERP que consta de 3 partes: Web administrativa, app móvil y tienda pública, siendo esta última desarrollada desde cero por mí, el cual sirve para realizar pedidos, siendo posible enviar estos mediante WhatsApp. También me tocó implementar mejoras en la web administrativa de front end y back end, además de migrar funcionalidades existentes en la app móvil hacia la web. En la app móvil me tocó realizar un rediseño parcial",
-      "image": "http://placeimg.com/640/480/food",
+      "image": Sysge24Img,
       "technologies": [
         "React Native",
         "React.js",
