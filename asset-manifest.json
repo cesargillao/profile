@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/profile/static/css/main.02879ede.css",
-    "main.js": "/profile/static/js/main.eef93225.js",
+    "main.js": "/profile/static/js/main.babf6f72.js",
+    "static/media/CreditBook.apk": "/profile/static/media/CreditBook.a04663496861d5bb7ce9.apk",
     "static/media/César Gil Lao 2023 - Spanish.pdf": "/profile/static/media/César Gil Lao 2023 - Spanish.efcfe961f1532a8096b6.pdf",
     "static/media/César Gil Lao 2023 - English.pdf": "/profile/static/media/César Gil Lao 2023 - English.019d8d9c5be904c641e3.pdf",
     "static/media/cucara-matcha.png": "/profile/static/media/cucara-matcha.3313a3387444303f720e.png",
@@ -32,10 +33,10 @@
     "static/media/close-circle.svg": "/profile/static/media/close-circle.238a3c9d7a90d82f4f2c6c47047dd109.svg",
     "static/media/menu.svg": "/profile/static/media/menu.97ffcfd554a469f2be692f4879483815.svg",
     "main.02879ede.css.map": "/profile/static/css/main.02879ede.css.map",
-    "main.eef93225.js.map": "/profile/static/js/main.eef93225.js.map"
+    "main.babf6f72.js.map": "/profile/static/js/main.babf6f72.js.map"
   },
   "entrypoints": [
     "static/css/main.02879ede.css",
-    "static/js/main.eef93225.js"
+    "static/js/main.babf6f72.js"
   ]
 }
