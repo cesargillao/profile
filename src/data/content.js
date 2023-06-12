@@ -156,7 +156,7 @@ export const data = {
       ],
       "links": [
         {
-          "title": "CreditBook | Google Play",
+          "title": "CreditBook | APK",
           "icon": "android",
           "url": CreditBookAPK
         }
