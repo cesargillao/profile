@@ -140,8 +140,7 @@ export const data = {
         {
           "title": "Mr. Parking | APK",
           "icon": "android",
-          // TODO: Dejar APK
-          "url": ""
+          "url": "https://play.google.com/store/apps/developer?id=Prusked"
         }
       ],
     },
@@ -158,7 +157,7 @@ export const data = {
       "links": [
         {
           "title": "CreditBook | Google Play",
-          "icon": "google-play",
+          "icon": "android",
           "url": CreditBookAPK
         }
       ],
