@@ -15,6 +15,8 @@ import Sysge24Img from '../assets/images/sysge24.png';
 import TaxealoImg from '../assets/images/taxealo.png';
 import TecnoImg from '../assets/images/tecno.png';
 
+import CreditBookAPK from '../assets/apk/CreditBook.apk';
+
 export const data = {
   "profile_photo": ProfilePhoto,
   "about": "I am a software developer with 7 years of experience. I am passionate about creating visually striking, intuitive, scalable, and high-quality software with added value. I have extensive experience developing full web and mobile applications with technologies such as React.js, React Native, Flutter and Node.js. Also, I am always on personal side projects that allow me to learn about new tools and techniques that can improve the development process and ensure the quality of the final product.",
@@ -157,8 +159,7 @@ export const data = {
         {
           "title": "CreditBook | Google Play",
           "icon": "google-play",
-          // TODO: Establecer enlace real
-          "url": "https://play.google.com/store/apps/developer?id=Prusked"
+          "url": CreditBookAPK
         }
       ],
     },
