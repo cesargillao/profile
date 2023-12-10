@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/profile/static/css/main.02879ede.css",
-    "main.js": "/profile/static/js/main.95713e1c.js",
+    "main.js": "/profile/static/js/main.d5759485.js",
     "static/media/CreditBook.apk": "/profile/static/media/CreditBook.a04663496861d5bb7ce9.apk",
-    "static/media/César Gil Lao 2023 - Spanish.pdf": "/profile/static/media/César Gil Lao 2023 - Spanish.1f36f18ed51d3277e5e3.pdf",
-    "static/media/César Gil Lao 2023 - English.pdf": "/profile/static/media/César Gil Lao 2023 - English.a17d91c30658e9095bb5.pdf",
+    "static/media/César Gil Lao 2023 - Spanish.pdf": "/profile/static/media/César Gil Lao 2023 - Spanish.b1bc69fa0cf9978387ca.pdf",
+    "static/media/César Gil Lao 2023 - English.pdf": "/profile/static/media/César Gil Lao 2023 - English.ff3e20559b076f3a436d.pdf",
     "static/media/cucara-matcha.png": "/profile/static/media/cucara-matcha.3313a3387444303f720e.png",
     "static/media/profile-photo.png": "/profile/static/media/profile-photo.9f4e1a6f5e30649bb112.png",
     "static/media/tecno.png": "/profile/static/media/tecno.fadb5850cf2dc07bf7ea.png",
@@ -33,10 +33,10 @@
     "static/media/close-circle.svg": "/profile/static/media/close-circle.238a3c9d7a90d82f4f2c6c47047dd109.svg",
     "static/media/menu.svg": "/profile/static/media/menu.97ffcfd554a469f2be692f4879483815.svg",
     "main.02879ede.css.map": "/profile/static/css/main.02879ede.css.map",
-    "main.95713e1c.js.map": "/profile/static/js/main.95713e1c.js.map"
+    "main.d5759485.js.map": "/profile/static/js/main.d5759485.js.map"
   },
   "entrypoints": [
     "static/css/main.02879ede.css",
-    "static/js/main.95713e1c.js"
+    "static/js/main.d5759485.js"
   ]
 }
