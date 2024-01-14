@@ -23,6 +23,7 @@ export const data = {
   "skills": [
     "React.js",
     "React Native",
+    "Next.js",
     "Qwik",
     "Flutter",
     "TypeScript",
