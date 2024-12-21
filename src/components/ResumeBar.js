@@ -1,6 +1,6 @@
 import { useRef } from 'react';
-import CVEnglish from '../assets/cv/César Gil Lao 2023 - English.pdf';
-import CVSpanish from '../assets/cv/César Gil Lao 2023 - Spanish.pdf';
+import CVEnglish from '../assets/cv/César Gil Lao 2025 - English.pdf';
+import CVSpanish from '../assets/cv/César Gil Lao 2025 - Spanish.pdf';
 import DocumentTextIcon from '../assets/icons/document-text.svg';
 import CloseCircleIcon from '../assets/icons/close-circle.svg';
 

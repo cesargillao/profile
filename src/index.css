@@ -84,7 +84,6 @@
 
   #about .content p {
     display: flex;
-    text-align: justify;
     padding: 0 0.5rem;
     @apply text-gray-300 sm:flex-[3] lg:px-0;
   }

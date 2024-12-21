@@ -3,12 +3,14 @@ import BelowImg from '../assets/images/below.png';
 import CreditBookImg from '../assets/images/creditbook.png';
 import CucaraMatchaImg from '../assets/images/cucara-matcha.png';
 import DarecoImg from '../assets/images/dareco.png';
+import HACCleaningImg from '../assets/images/hac-cleaning.png';
 import HuycesImg from '../assets/images/huyces.png';
 import MicrocontrollersImg from '../assets/images/microcontrollers.png';
 import MrParkingImg from '../assets/images/mr-parking.png';
 import PrevenautoImg from '../assets/images/prevenauto.png';
 import ProfilePhoto from '../assets/images/profile-photo.png';
 import RailaImg from '../assets/images/raila.png';
+import SegurosQualitasImg from '../assets/images/seguros-qualitas.png';
 import ServipImg from '../assets/images/servip.png';
 import SuptrimzaImg from '../assets/images/suptrimza.png';
 import Sysge24Img from '../assets/images/sysge24.png';
@@ -19,7 +21,7 @@ import CreditBookAPK from '../assets/apk/CreditBook.apk';
 
 export const data = {
   "profile_photo": ProfilePhoto,
-  "about": "I am a software developer with 8 years of experience. I am passionate about creating visually striking, intuitive, scalable, and high-quality software with added value. I have extensive experience developing full web and mobile applications with technologies such as React.js, React Native, Flutter and Node.js. Also, I am always on personal side projects that allow me to learn about new tools and techniques that can improve the development process and ensure the quality of the final product.",
+  "about": "I am a software developer with 9 years of experience. I am passionate about creating visually striking, intuitive, scalable, and high-quality software with added value. I have extensive experience developing full web and mobile applications with technologies such as React.js, React Native, Flutter and Node.js. Also, I am always on personal side projects that allow me to learn about new tools and techniques that can improve the development process and ensure the quality of the final product.",
   "skills": [
     "React.js",
     "React Native",
@@ -47,7 +49,7 @@ export const data = {
       "from": "Feb 2022",
       "until": "Currently",
       "goals": [
-        "I have implemented interfaces and functionalities in mobile and web applications, and in some cases, the projects were created from scratch.",
+        "I have implemented interfaces and functionalities in mobile and web applications, the projects were created from scratch.",
         "I have supported the back-end team in technologies such as Laravel/Nest.js to complement the required functionality in the front-end and also improve workflow.",
         "Up to this point, I have participated in more than 20 projects within the company"
       ],
@@ -109,6 +111,51 @@ export const data = {
   ],
   "work": [
     {
+      "title": "Seguros Qualitas",
+      "overline": "Featured Project",
+      "description": "It is an app that allows Seguros Qualitas policyholders to carry out procedures and queries regarding their policies quickly and easily, as well as being able to request assistance in the event of an accident, among other features. It consists of an app for policyholders, as well as a web version of the app and an administrative website for the company's employees.",
+      "description_es": "Es una app que permite a los asegurados de Seguros Qualitas realizar trámites y consultas de sus pólizas de forma rápida y sencilla, además de poder solicitar asistencia en caso de siniestro, entre otras funcionalidades. Consta de una app para los asegurados, también una versión web de la app y una web administrativa para los empleados de la empresa.",
+      "image": SegurosQualitasImg,
+      "technologies": [
+        "React Native",
+        "React.js",
+        "Nest.js",
+        "TailwindCSS"
+      ],
+      "links": [
+        {
+          "title": "Seguros Qualitas | Google Play",
+          "icon": "google-play",
+          "url": "https://play.google.com/store/apps/details?id=com.limonbyte.seguros"
+        },
+        {
+          "title": "Seguros Qualitas | WebApp",
+          "icon": "web",
+          "url": "https://appweb.seguros-qualitas.com"
+        }
+      ],
+    },
+    {
+      "title": "HAC Cleaning",
+      "overline": "Featured Project",
+      "description": "It is a cleaning services management app which involves verifying the employee's location at the time of starting a job, uploading photos of the service, and calculating payroll based on the hours worked. Visual reports of the services performed are generated from the administrator's website.",
+      "description_es": "Es una app de gestión de servicios de limpieza el cual involucra la verificación de la ubicación del empleado al momento de iniciar un trabajo, subida de fotos del servicio, cálculo de nómina en base al horario trabajado. Desde la web del administrador se generan reportes visuales de los servicios realizados.",
+      "image": HACCleaningImg,
+      "technologies": [
+        "React Native",
+        "React.js",
+        "Nest.js",
+        "TailwindCSS"
+      ],
+      "links": [
+        {
+          "title": "HAC Cleaning | Google Play",
+          "icon": "google-play",
+          "url": "https://play.google.com/store/apps/details?id=com.limonbyte.haccleaning"
+        }
+      ],
+    },
+    {
       "title": "Raila: Language Assistant",
       "overline": "Side Project",
       "description": "Raila is an app powered by Chat GPT that helps to remember and implement words in different languages ​​with the frequent sending of reminders in the form of notifications",
@@ -119,11 +166,11 @@ export const data = {
         "Chat GPT"
       ],
       "links": [
-        {
-          "title": "Raila | Google Play",
-          "icon": "google-play",
-          "url": "https://play.google.com/store/apps/details?id=com.prusked.raila"
-        }
+        // {
+        //   "title": "Raila | Google Play",
+        //   "icon": "google-play",
+        //   "url": "https://play.google.com/store/apps/details?id=com.prusked.raila"
+        // }
       ],
     },
     {
@@ -139,11 +186,11 @@ export const data = {
         "Socket.io"
       ],
       "links": [
-        {
-          "title": "Mr. Parking | APK",
-          "icon": "android",
-          "url": "https://play.google.com/store/apps/developer?id=Prusked"
-        }
+        // {
+        //   "title": "Mr. Parking | APK",
+        //   "icon": "android",
+        //   "url": "https://play.google.com/store/apps/developer?id=Prusked"
+        // }
       ],
     },
     {
