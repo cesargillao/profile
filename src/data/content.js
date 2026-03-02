@@ -3,13 +3,16 @@ import BelowImg from '../assets/images/below.png';
 import CreditBookImg from '../assets/images/creditbook.png';
 import CucaraMatchaImg from '../assets/images/cucara-matcha.png';
 import DarecoImg from '../assets/images/dareco.png';
+import EstandarImg from '../assets/images/estandar.png';
 import HACCleaningImg from '../assets/images/hac-cleaning.png';
 import HuycesImg from '../assets/images/huyces.png';
 import MicrocontrollersImg from '../assets/images/microcontrollers.png';
 import MrParkingImg from '../assets/images/mr-parking.png';
 import PrevenautoImg from '../assets/images/prevenauto.png';
 import ProfilePhoto from '../assets/images/profile-photo.png';
-import RailaImg from '../assets/images/raila.png';
+import ProsegurosImg from '../assets/images/proseguros.png';
+// import RailaImg from '../assets/images/raila.png';
+import RedGalenaImg from '../assets/images/red-galena.png';
 import SegurosQualitasImg from '../assets/images/seguros-qualitas.png';
 import ServipImg from '../assets/images/servip.png';
 import SuptrimzaImg from '../assets/images/suptrimza.png';
@@ -17,11 +20,12 @@ import Sysge24Img from '../assets/images/sysge24.png';
 import TaxealoImg from '../assets/images/taxealo.png';
 import TecnoImg from '../assets/images/tecno.png';
 
+// APK's
 import CreditBookAPK from '../assets/apk/CreditBook.apk';
 
 export const data = {
   "profile_photo": ProfilePhoto,
-  "about": "I am a software developer with 9 years of experience. I am passionate about creating visually striking, intuitive, scalable, and high-quality software with added value. I have extensive experience developing full web and mobile applications with technologies such as React.js, React Native, Flutter and Node.js. Also, I am always on personal side projects that allow me to learn about new tools and techniques that can improve the development process and ensure the quality of the final product.",
+  "about": "I am a software developer with 10 years of experience. I am passionate about creating visually striking, intuitive, scalable, and high-quality software with added value. I have extensive experience developing full web and mobile applications with technologies such as React.js, React Native, Flutter and Nest.js. Also, I am always on personal side projects that allow me to learn about new tools and techniques that can improve the development process and ensure the quality of the final product.",
   "skills": [
     "React.js",
     "React Native",
@@ -55,7 +59,7 @@ export const data = {
       ],
       "goals_es": [
         "He Implementado interfaces y funcionalidades en aplicaciones móviles y web y en algunos casos los proyectos fueron creados desde cero.",
-        "He apoyado al equipo de back end en tecnologías como Laravel/Nest.js para complementar las funcionalidades requeridas en el front end y también mejorar el flujo de trabajo.",
+        "He apoyado al equipo de back-end en tecnologías como Laravel/Nest.js para complementar las funcionalidades requeridas en el front-end y también mejorar el flujo de trabajo.",
         "Hasta el momento he participado en más de 20 proyectos dentro de la empresa."
       ],
     },
@@ -136,6 +140,71 @@ export const data = {
       ],
     },
     {
+      "title": "Proseguros",
+      "overline": "Featured Project",
+      "description": "It is an app that allows Proseguros policyholders to carry out procedures and queries regarding their policies quickly and easily, as well as being able to request assistance in the event of an accident, among other features. It consists of an app for policyholders, as well as a web version of the app and an administrative website for the company's employees.",
+      "description_es": "Es una app que permite a los asegurados de Proseguros realizar trámites y consultas de sus pólizas de forma rápida y sencilla, además de poder solicitar asistencia en caso de siniestro, entre otras funcionalidades. Consta de una app para los asegurados, también una versión web de la app y una web administrativa para los empleados de la empresa.",
+      "image": ProsegurosImg,
+      "technologies": [
+        "React Native",
+        "React.js",
+        "Nest.js",
+        "TailwindCSS"
+      ],
+      "links": [
+        // {
+        //   "title": "Proseguros | Google Play",
+        //   "icon": "google-play",
+        //   "url": "https://play.google.com/store/apps/details?id=com.limonbyte.proseguros"
+        // },
+        // {
+        //   "title": "Proseguros | WebApp",
+        //   "icon": "web",
+        //   "url": "https://appweb.seguros-qualitas.com"
+        // }
+      ],
+    },
+    {
+      "title": "Red Galena",
+      "overline": "Featured Project",
+      "description": "This is an app for managing both online and in-person medical consultations. It enables messaging and video calls between all parties involved. Additionally, it features a corporate profile that allows companies to purchase medical consultations for their employees. The ecosystem consists of dedicated apps for doctors, patients, and companies, as well as an administrative web portal for Red Galena staff.",
+      "description_es": "Es una app para gestionar consultas médicas online y presenciales. Permite enviar mensajes y videoconsultas entre los involucrados. También posee un perfil de empresa el cual permite a las mismas adquirir consultas médicas para sus empleados. Consta de una app para los médicos, pacientes y empresas, también una web administrativa para el personal de Red Galena.",
+      "image": RedGalenaImg,
+      "technologies": [
+        "React Native",
+        "React.js",
+        "Nest.js",
+        "SASS"
+      ],
+      "links": [
+        {
+          "title": "Red Galena | Google Play",
+          "icon": "google-play",
+          "url": "https://play.google.com/store/apps/details?id=com.limonbyte.redgalena"
+        },
+      ],
+    },
+    {
+      "title": "Estándar",
+      "overline": "Featured Project",
+      "description": "It is an online store featuring a Visual Product Configurator, which allows users to see their selected options in real time. This functionality was built from scratch using reverse engineering. The system consists of the e-commerce storefront and an administrative panel for the store manager.",
+      "description_es": "Es una tienda online con la particularidad de poseer un Configurador Visual de Producto, el cual permite ver en tiempo real las opciones seleccionadas por el usuario. Funcionalidad realizada desde cero con ingeniería inversa. Consta de una tienda online y una web administrativa para el administrador de la tienda.",
+      "image": EstandarImg,
+      "technologies": [
+        "React Native",
+        "React.js",
+        "Nest.js",
+        "TailwindCSS"
+      ],
+      "links": [
+        {
+          "title": "Estandar | Tienda Online",
+          "icon": "web",
+          "url": "https://estandar.com"
+        }
+      ],
+    },
+    {
       "title": "HAC Cleaning",
       "overline": "Featured Project",
       "description": "It is a cleaning services management app which involves verifying the employee's location at the time of starting a job, uploading photos of the service, and calculating payroll based on the hours worked. Visual reports of the services performed are generated from the administrator's website.",
@@ -156,62 +225,6 @@ export const data = {
       ],
     },
     {
-      "title": "Raila: Language Assistant",
-      "overline": "Side Project",
-      "description": "Raila is an app powered by Chat GPT that helps to remember and implement words in different languages ​​with the frequent sending of reminders in the form of notifications",
-      "description_es": "Raila es una app potenciada con Chat GPT que ayuda a recordar e implementar palabras en distintos idiomas con el envío frecuente de recordatorios en forma de notificaciones",
-      "image": RailaImg,
-      "technologies": [
-        "Flutter",
-        "Chat GPT"
-      ],
-      "links": [
-        // {
-        //   "title": "Raila | Google Play",
-        //   "icon": "google-play",
-        //   "url": "https://play.google.com/store/apps/details?id=com.prusked.raila"
-        // }
-      ],
-    },
-    {
-      "title": "Mr. Parking",
-      "overline": "Side Project (In Progress)",
-      "description": "Mr. Parking is an app whose main objective is to locate parking spots in real-time, depending on the type of vehicle the driver has. And as a business model, a store is implemented that is focused on all types of vehicles",
-      "description_es": "Mr. Parking es una app cuyo objetivo principal es ubicar estacionamientos en tiempo real, dependiendo del tipo de vehículo del conductor. Y como modelo de negocio, se implementa una tienda orientada a todo tipo de vehículo",
-      "image": MrParkingImg,
-      "technologies": [
-        "Flutter",
-        "Nest.js",
-        "Firebase",
-        "Socket.io"
-      ],
-      "links": [
-        // {
-        //   "title": "Mr. Parking | APK",
-        //   "icon": "android",
-        //   "url": "https://play.google.com/store/apps/developer?id=Prusked"
-        // }
-      ],
-    },
-    {
-      "title": "CreditBook",
-      "overline": "Side Project",
-      "description": "CreditBook is an app to manage personal loans, whose color palette was inspired by Binance. It was the first app I created after completing the React Native course.",
-      "description_es": "CreditBook es una app para administrar los préstamos personales, cuya paleta de colores fue inspirada por Binance. Fue la primera app que creé luego de realizar el curso de React Native",
-      "image": CreditBookImg,
-      "technologies": [
-        "React Native",
-        "TypeScript",
-      ],
-      "links": [
-        {
-          "title": "CreditBook | APK",
-          "icon": "android",
-          "url": CreditBookAPK
-        }
-      ],
-    },
-    {
       "title": "SIAT: Sistema Integrado de Administración Tributaria (Taxes)",
       "overline": "Featured Project",
       "description": "This system is the most relevant in my project list, since all the business logic, calculations, and extensive forms were created from scratch in a technology that I had no knowledge of (Angular), but I was able to easily adapt. The most satisfying part is knowing that it was used by thousands of users",
@@ -223,6 +236,39 @@ export const data = {
         "SQL"
       ],
       "links": [],
+    },
+    {
+      "title": "Sysge24",
+      "overline": "Featured Project",
+      "description": "It is an ERP that consists of 3 parts: administrative website, mobile app and public store, the latter being developed from scratch by me, which is used to place orders, and it is possible to send them via WhatsApp. I also had to implement improvements in the front end and back end administrative web, in addition to migrating existing functionalities in the mobile app to the web. In the mobile app I had to carry out a partial redesign",
+      "description_es": "Es un ERP que consta de 3 partes: Web administrativa, app móvil y tienda pública, siendo esta última desarrollada desde cero por mí, el cual sirve para realizar pedidos, siendo posible enviar estos mediante WhatsApp. También me tocó implementar mejoras en la web administrativa de front end y back end, además de migrar funcionalidades existentes en la app móvil hacia la web. En la app móvil me tocó realizar un rediseño parcial",
+      "image": Sysge24Img,
+      "technologies": [
+        "React Native",
+        "React.js",
+        "Laravel",
+        "Firebase",
+        "Socket.io",
+        "Redux",
+        "SCSS"
+      ],
+      "links": [
+        {
+          "title": "Sysge24 | Web",
+          "icon": "web",
+          "url": "https://sysge24.com"
+        },
+        {
+          "title": "Sysge24 | App Store",
+          "icon": "app-store",
+          "url": "https://apps.apple.com/gw/app/sysge24/id1625740493"
+        },
+        {
+          "title": "Sysge24 | Google Play",
+          "icon": "google-play",
+          "url": "https://play.google.com/store/apps/details?id=com.sysge24"
+        }
+      ],
     },
     {
       "title": "Prevenauto",
@@ -244,26 +290,30 @@ export const data = {
       ],
     },
     {
-      "title": "Below",
+      "title": "Dareco",
       "overline": "Featured Project",
-      "description": "Below is a system for managing professional technical service for preventative and corrective maintenance of air conditioning, which has a mobile and web app. I developed all the screens for the web and a large part of its functionalities. I also participated in some screens and details on the mobile app, including the iOS version, as well as some adjustments in the back end",
-      "description_es": "Below es un sistema para administrar servicio técnico profesional de mantenimiento preventivo y correctivo de aire acondicionado. El cual posee una app móvil y web. Desarrollé todas las pantallas de la web y gran parte de sus funcionalidades. Participé en algunas pantallas y detalles en la app móvil, incluyendo la versión para iOS y también en algunos ajustes en back end",
-      "image": BelowImg,
+      "description": "It is an app that complements a web store created with Wordpress and WooCommerce. I implemented functionalities that allowed from the app to create customers and authenticate them, place orders, manage shipping costs based on the customer's location and manage products with variants",
+      "description_es": "Es una app que complementa una tienda web creada con Wordpress y WooCommerce. Implementé funcionalidades que permitieron desde la app crear clientes y autenticarlos, realizar los pedidos, gestionar costos de envío basándome en la ubicación del cliente y manejo de productos con variantes",
+      "image": DarecoImg,
       "technologies": [
         "React Native",
         "React.js",
-        "TypeScript",
-        "Nest.js",
+        "Vue",
+        "Laravel",
         "Firebase",
         "Socket.io",
-        "Redux",
-        "SCSS"
+        "Redux"
       ],
       "links": [
         {
-          "title": "Below | Google Play",
+          "title": "Dareco | Google Play",
           "icon": "google-play",
-          "url": "https://play.google.com/store/apps/details?id=com.limonbyte.below"
+          "url": "https://play.google.com/store/apps/details?id=com.limonbyte.dareco"
+        },
+        {
+          "title": "Dareco | Web",
+          "icon": "web",
+          "url": "https://darecoweb.com"
         }
       ],
     },
@@ -287,28 +337,6 @@ export const data = {
           "title": "Tecno | Google Play",
           "icon": "google-play",
           "url": "https://play.google.com/store/apps/details?id=com.limonbyte.gestionsabasic"
-        }
-      ],
-    },
-    {
-      "title": "SerVIP",
-      "overline": "Featured Project",
-      "description": "SerVIP is an app where you can search business directories by categories, states and cities. I developed all the screens based on a layout provided and after a while they asked me to implement a complete redesign",
-      "description_es": "SerVIP es una app en la que puedes buscar directorios comerciales por categorías, estados y ciudades. Desarrollé todas las pantallas basándome en un diseño proporcionado y al cabo de un tiempo me solicitaron implementar un rediseño completo",
-      "image": ServipImg,
-      "technologies": [
-        "React Native",
-        "React.js",
-        "Nest.js",
-        "Firebase",
-        "Socket.io",
-        "Redux"
-      ],
-      "links": [
-        {
-          "title": "SerVIP | Google Play",
-          "icon": "google-play",
-          "url": "https://play.google.com/store/apps/details?id=com.servip.app"
         }
       ],
     },
@@ -351,43 +379,16 @@ export const data = {
       ],
     },
     {
-      "title": "Dareco",
+      "title": "Below",
       "overline": "Featured Project",
-      "description": "It is an app that complements a web store created with Wordpress and WooCommerce. I implemented functionalities that allowed from the app to create customers and authenticate them, place orders, manage shipping costs based on the customer's location and manage products with variants",
-      "description_es": "Es una app que complementa una tienda web creada con Wordpress y WooCommerce. Implementé funcionalidades que permitieron desde la app crear clientes y autenticarlos, realizar los pedidos, gestionar costos de envío basándome en la ubicación del cliente y manejo de productos con variantes",
-      "image": DarecoImg,
+      "description": "Below is a system for managing professional technical service for preventative and corrective maintenance of air conditioning, which has a mobile and web app. I developed all the screens for the web and a large part of its functionalities. I also participated in some screens and details on the mobile app, including the iOS version, as well as some adjustments in the back end",
+      "description_es": "Below es un sistema para administrar servicio técnico profesional de mantenimiento preventivo y correctivo de aire acondicionado. El cual posee una app móvil y web. Desarrollé todas las pantallas de la web y gran parte de sus funcionalidades. Participé en algunas pantallas y detalles en la app móvil, incluyendo la versión para iOS y también en algunos ajustes en back end",
+      "image": BelowImg,
       "technologies": [
         "React Native",
         "React.js",
-        "Vue",
-        "Laravel",
-        "Firebase",
-        "Socket.io",
-        "Redux"
-      ],
-      "links": [
-        {
-          "title": "Dareco | Google Play",
-          "icon": "google-play",
-          "url": "https://play.google.com/store/apps/details?id=com.limonbyte.dareco"
-        },
-        {
-          "title": "Dareco | Web",
-          "icon": "web",
-          "url": "https://darecoweb.com"
-        }
-      ],
-    },
-    {
-      "title": "Sysge24",
-      "overline": "Featured Project",
-      "description": "It is an ERP that consists of 3 parts: administrative website, mobile app and public store, the latter being developed from scratch by me, which is used to place orders, and it is possible to send them via WhatsApp. I also had to implement improvements in the front end and back end administrative web, in addition to migrating existing functionalities in the mobile app to the web. In the mobile app I had to carry out a partial redesign",
-      "description_es": "Es un ERP que consta de 3 partes: Web administrativa, app móvil y tienda pública, siendo esta última desarrollada desde cero por mí, el cual sirve para realizar pedidos, siendo posible enviar estos mediante WhatsApp. También me tocó implementar mejoras en la web administrativa de front end y back end, además de migrar funcionalidades existentes en la app móvil hacia la web. En la app móvil me tocó realizar un rediseño parcial",
-      "image": Sysge24Img,
-      "technologies": [
-        "React Native",
-        "React.js",
-        "Laravel",
+        "TypeScript",
+        "Nest.js",
         "Firebase",
         "Socket.io",
         "Redux",
@@ -395,19 +396,87 @@ export const data = {
       ],
       "links": [
         {
-          "title": "Sysge24 | Web",
-          "icon": "web",
-          "url": "https://sysge24.com"
-        },
-        {
-          "title": "Sysge24 | App Store",
-          "icon": "app-store",
-          "url": "https://apps.apple.com/gw/app/sysge24/id1625740493"
-        },
-        {
-          "title": "Sysge24 | Google Play",
+          "title": "Below | Google Play",
           "icon": "google-play",
-          "url": "https://play.google.com/store/apps/details?id=com.sysge24"
+          "url": "https://play.google.com/store/apps/details?id=com.limonbyte.below"
+        }
+      ],
+    },
+    {
+      "title": "SerVIP",
+      "overline": "Featured Project",
+      "description": "SerVIP is an app where you can search business directories by categories, states and cities. I developed all the screens based on a layout provided and after a while they asked me to implement a complete redesign",
+      "description_es": "SerVIP es una app en la que puedes buscar directorios comerciales por categorías, estados y ciudades. Desarrollé todas las pantallas basándome en un diseño proporcionado y al cabo de un tiempo me solicitaron implementar un rediseño completo",
+      "image": ServipImg,
+      "technologies": [
+        "React Native",
+        "React.js",
+        "Nest.js",
+        "Firebase",
+        "Socket.io",
+        "Redux"
+      ],
+      "links": [
+        {
+          "title": "SerVIP | Google Play",
+          "icon": "google-play",
+          "url": "https://play.google.com/store/apps/details?id=com.servip.app"
+        }
+      ],
+    },
+    {
+      "title": "Mr. Parking",
+      "overline": "Side Project (In Progress)",
+      "description": "Mr. Parking is an app whose main objective is to locate parking spots in real-time, depending on the type of vehicle the driver has. And as a business model, a store is implemented that is focused on all types of vehicles",
+      "description_es": "Mr. Parking es una app cuyo objetivo principal es ubicar estacionamientos en tiempo real, dependiendo del tipo de vehículo del conductor. Y como modelo de negocio, se implementa una tienda orientada a todo tipo de vehículo",
+      "image": MrParkingImg,
+      "technologies": [
+        "Flutter",
+        "Nest.js",
+        "Firebase",
+        "Socket.io"
+      ],
+      "links": [
+        // {
+        //   "title": "Mr. Parking | APK",
+        //   "icon": "android",
+        //   "url": "https://play.google.com/store/apps/developer?id=Prusked"
+        // }
+      ],
+    },
+    // {
+    //   "title": "Raila: Language Assistant",
+    //   "overline": "Side Project",
+    //   "description": "Raila is an app powered by Chat GPT that helps to remember and implement words in different languages ​​with the frequent sending of reminders in the form of notifications",
+    //   "description_es": "Raila es una app potenciada con Chat GPT que ayuda a recordar e implementar palabras en distintos idiomas con el envío frecuente de recordatorios en forma de notificaciones",
+    //   "image": RailaImg,
+    //   "technologies": [
+    //     "Flutter",
+    //     "Chat GPT"
+    //   ],
+    //   "links": [
+    //     // {
+    //     //   "title": "Raila | Google Play",
+    //     //   "icon": "google-play",
+    //     //   "url": "https://play.google.com/store/apps/details?id=com.prusked.raila"
+    //     // }
+    //   ],
+    // },
+    {
+      "title": "CreditBook",
+      "overline": "Side Project",
+      "description": "CreditBook is an app to manage personal loans, whose color palette was inspired by Binance. It was the first app I created after completing the React Native course.",
+      "description_es": "CreditBook es una app para administrar los préstamos personales, cuya paleta de colores fue inspirada por Binance. Fue la primera app que creé luego de realizar el curso de React Native",
+      "image": CreditBookImg,
+      "technologies": [
+        "React Native",
+        "TypeScript",
+      ],
+      "links": [
+        {
+          "title": "CreditBook | APK",
+          "icon": "android",
+          "url": CreditBookAPK
         }
       ],
     },
