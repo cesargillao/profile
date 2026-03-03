@@ -1,12 +1,14 @@
 {
   "files": {
     "main.css": "/profile/static/css/main.a366014f.css",
-    "main.js": "/profile/static/js/main.fce76872.js",
+    "main.js": "/profile/static/js/main.4f208b25.js",
     "static/media/CreditBook.apk": "/profile/static/media/CreditBook.a04663496861d5bb7ce9.apk",
-    "static/media/César Gil Lao 2025 - Spanish.pdf": "/profile/static/media/César Gil Lao 2025 - Spanish.28966ccc73d986b56e09.pdf",
-    "static/media/César Gil Lao 2025 - English.pdf": "/profile/static/media/César Gil Lao 2025 - English.8a77d9767a91f201544a.pdf",
+    "static/media/César Gil Lao 2026 - Spanish.pdf": "/profile/static/media/César Gil Lao 2026 - Spanish.4704bc5941f145ddb53b.pdf",
+    "static/media/César Gil Lao 2026 - English.pdf": "/profile/static/media/César Gil Lao 2026 - English.402aeb06fcd0cda19270.pdf",
     "static/media/cucara-matcha.png": "/profile/static/media/cucara-matcha.3313a3387444303f720e.png",
     "static/media/profile-photo.png": "/profile/static/media/profile-photo.9f4e1a6f5e30649bb112.png",
+    "static/media/proseguros.png": "/profile/static/media/proseguros.906f8da7fac82555ea3a.png",
+    "static/media/red-galena.png": "/profile/static/media/red-galena.fd26feec66bfe4c230eb.png",
     "static/media/tecno.png": "/profile/static/media/tecno.fadb5850cf2dc07bf7ea.png",
     "static/media/seguros-qualitas.png": "/profile/static/media/seguros-qualitas.d9530ce2f449063e5a81.png",
     "static/media/dareco.png": "/profile/static/media/dareco.e7e035cdb1444e9f3821.png",
@@ -17,28 +19,28 @@
     "static/media/hac-cleaning.png": "/profile/static/media/hac-cleaning.af8e6e7f82fc32463ea8.png",
     "static/media/prevenauto.png": "/profile/static/media/prevenauto.119ade05ad78d1b19fd3.png",
     "static/media/SFMono-Regular.ttf": "/profile/static/media/SFMono-Regular.04c2f44851d26268afe8.ttf",
+    "static/media/estandar.png": "/profile/static/media/estandar.f10627654abf7f18495d.png",
     "static/media/suptrimza.png": "/profile/static/media/suptrimza.954c0beacf85ed067d4e.png",
     "static/media/mr-parking.png": "/profile/static/media/mr-parking.fc8c47b83c1a6de508c7.png",
     "static/media/creditbook.png": "/profile/static/media/creditbook.862d420b666e53904ec5.png",
     "static/media/huyces.png": "/profile/static/media/huyces.f1ee186ae973d9413680.png",
     "static/media/automatizac.png": "/profile/static/media/automatizac.686b7837f065b10e54a3.png",
-    "static/media/raila.png": "/profile/static/media/raila.23ea27c2d1f1c2bf3d12.png",
     "static/media/microcontrollers.png": "/profile/static/media/microcontrollers.76bc23099a31fce2f017.png",
     "static/media/Calibre-Regular.ttf": "/profile/static/media/Calibre-Regular.5953fa35a6c05f584064.ttf",
     "static/media/prusked.png": "/profile/static/media/prusked.2573a64431c7156c8131.png",
-    "static/media/android.svg": "/profile/static/media/android.1d2beb06bc1df06e8d3f741aa8b5c013.svg",
-    "static/media/global.svg": "/profile/static/media/global.582197ce7bcee27f3f6fede1c5e5b5e6.svg",
-    "static/media/google-play.svg": "/profile/static/media/google-play.47bf371af29e6d7112bf5252594c6937.svg",
-    "static/media/apple.svg": "/profile/static/media/apple.d37f21f36ed524c8b1e79d70547e9aae.svg",
+    "static/media/android.svg": "/profile/static/media/android.58c182d23f00e239f4c7ba65ec0f07fe.svg",
     "index.html": "/profile/index.html",
+    "static/media/global.svg": "/profile/static/media/global.cf1a809aa6397cc4f8a3fcc26b1b615a.svg",
+    "static/media/google-play.svg": "/profile/static/media/google-play.507613d71e0b3772edaadbed13d7d676.svg",
+    "static/media/apple.svg": "/profile/static/media/apple.d37f21f36ed524c8b1e79d70547e9aae.svg",
     "static/media/document-text.svg": "/profile/static/media/document-text.20364ec65f72392742890926b675e410.svg",
     "static/media/close-circle.svg": "/profile/static/media/close-circle.238a3c9d7a90d82f4f2c6c47047dd109.svg",
     "static/media/menu.svg": "/profile/static/media/menu.97ffcfd554a469f2be692f4879483815.svg",
     "main.a366014f.css.map": "/profile/static/css/main.a366014f.css.map",
-    "main.fce76872.js.map": "/profile/static/js/main.fce76872.js.map"
+    "main.4f208b25.js.map": "/profile/static/js/main.4f208b25.js.map"
   },
   "entrypoints": [
     "static/css/main.a366014f.css",
-    "static/js/main.fce76872.js"
+    "static/js/main.4f208b25.js"
   ]
 }
